@@ -1,38 +1,4 @@
-The Project Gutenberg EBook of Tyrol and its People, by Clive Holland
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: Tyrol and its People
-
-Author: Clive Holland
-
-Illustrator: Adrian Stokes
-
-Release Date: September 28, 2012 [EBook #40889]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK TYROL AND ITS PEOPLE ***
-
-
-
-
-Produced by Melissa McDaniel and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive)
-
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 40889 ***
 
 Transcriber's Note:
 
@@ -112,7 +78,7 @@ over-exploited Switzerland--and the comparison is, both as regards
 scenery and general interest, greatly in favour of Tyrol. The tourist
 and holiday-maker who frequent Pontresina or St. Moritz will find in
 this comparatively new "playground for Europe" beautiful counterparts
-of those places in Innsbruck, Meran, Botzen, Kitzb¸hel, and other
+of those places in Innsbruck, Meran, Botzen, Kitzb√ºhel, and other
 delightful towns; whilst the more strenuously inclined who delight in
 mountain ascents will find the Dolomite region especially attractive,
 and in many other districts also interesting climbs. By the shores of
@@ -140,7 +106,7 @@ of Dr. Franz Wieser, Hans Semper, Von Alpenburg ("Mythen und Sagen
 Tirols"), Perini ("Castles of Tyrol"), Weber ("The Land of Tyrol"), an
 excellent and interesting anonymous guide to Salzburg, Scherer, Albert
 Wolff, V. Zingerle, Steub ("Die Verfassung Tirols"), Miller, and the
-excellent publications of the Tirol and Salzburg Landesverbaende f¸r
+excellent publications of the Tirol and Salzburg Landesverbaende f√ºr
 Fremdenverkehr, and other organizations.
 
 The spelling of names has presented much the same difficulty as the
@@ -226,7 +192,7 @@ CONTENTS
 
      THE ENVIRONS OF SALZBURG--HELLBRUNN, ITS UNIQUE FOUNTAINS
      AND GARDENS--THE CASTLE OF ANIF--THE GAISBERG--THE
-     KAPUZINGERBERG--THE MOZART-HƒUSCHEN--THE M÷NCHSBERG
+     KAPUZINGERBERG--THE MOZART-H√ÑUSCHEN--THE M√ñNCHSBERG
      --SALZBURG CHURCHES                                           176
 
 
@@ -299,7 +265,7 @@ LIST OF ILLUSTRATIONS
 
      A SOUTH TYROL FARMSTEAD                                       208
 
-     SUMMER-TIME NEAR ST. ULRICH, GR÷DENERTHAL                     226
+     SUMMER-TIME NEAR ST. ULRICH, GR√ñDENERTHAL                     226
 
      ALPENWIESE, ON THE SEISER ALP                                 256
 
@@ -424,7 +390,7 @@ the Cimbri and Alemanni.
 The question of the original inhabitants of Tyrol is still a much
 debated one, and appears to be as far off final settlement as ever;
 and this notwithstanding the enormous amount of interest which has
-been manifested in the subject by scientists, archÊologists, and
+been manifested in the subject by scientists, arch√¶ologists, and
 students during the last two centuries. Whether they were Cimbri,
 Etruscans, or Celts is still doubtful, although many learned
 authorities--more especially linguists--incline to the view that the
@@ -434,10 +400,10 @@ followed by Illyrians and Etruscans.
 And also regarding the manners, customs, and general characteristics
 of these early inhabitants, whoever they may have been, very little
 conclusive evidence is yet available. By both Greek and Roman writers
-they were referred to as RhÊtians, in common with the inhabitants of
-Eastern Switzerland; and Horace himself speaks of "The Alpine RhÊti,
+they were referred to as Rh√¶tians, in common with the inhabitants of
+Eastern Switzerland; and Horace himself speaks of "The Alpine Rh√¶ti,
 long unmatched in battle." Thus it is that the most ancient name by
-which Tyrol is known is that of RhÊtia.
+which Tyrol is known is that of Rh√¶tia.
 
 [Sidenote: INVASION OF THE CIMBRI]
 
@@ -488,7 +454,7 @@ Vercelli, when the invaders, led by Bojorich, suffered a crushing
 defeat in one of the bloodiest battles ever fought, in which it is
 said 320,000 were slain, and were driven out of Italy.
 
-The moral effect of this invasion upon the RhÊtians, through whose
+The moral effect of this invasion upon the Rh√¶tians, through whose
 territory the Cimbri had passed, bore fruit a few years later, when
 they attempted the same tactics, making frequent raids into Roman
 territory. Some sixty years after the incursion of the Cimbri they
@@ -501,11 +467,11 @@ forces.
 
 [Sidenote: ROMAN CONQUEST OF TYROL]
 
-The RhÊtians, however, were a hardy, valorous, and pugnacious tribe,
+The Rh√¶tians, however, were a hardy, valorous, and pugnacious tribe,
 and so frequent were their attacks upon the Roman forces left to hold
 the conquered country that the Emperor Augustus, about twenty years
 after the subjection of the Trent district, decided as a measure of
-self-protection on the conquest of the whole of RhÊtia, as far as the
+self-protection on the conquest of the whole of Rh√¶tia, as far as the
 River Danube.
 
 And for this work he deputed his two stepsons, Drusus and Tiberius.
@@ -534,7 +500,7 @@ the Roman soldiery when other weapons failed.
 The campaign of the two stepsons of Augustus resulted in the complete
 and final conquest of Tyrol. The victory, won in the narrow gorge of
 the Eisack, was commemorated in the name of the bridge _Pons Drusi_
-spanning the river, hard by which now stands the interesting mediÊval
+spanning the river, hard by which now stands the interesting medi√¶val
 town of Bozen.
 
 Successful as Drusus' forces were, none the less so were those of
@@ -553,7 +519,7 @@ severity owing to the nature of the ground over which it was fought
 and the stubborn resistance offered by the inhabitants.
 
 Soon Veldidena, from a halting-place of armies, became a town with
-houses of considerable size, temples, baths, and surrounding _vallÊ_,
+houses of considerable size, temples, baths, and surrounding _vall√¶_,
 or earthen fortifications formed to defend the inhabitants from sudden
 attack. Although precautions of the nature we have indicated were
 taken wherever a Roman post or station was placed, there is no
@@ -561,7 +527,7 @@ historical data to show that the Breones and other adjacent tribes who
 were thus brought under the Roman sway did not very speedily
 accommodate themselves to the new condition of things and become good
 and peaceful citizens of Rome. It appears probable, however, that the
-RhÊti did not adapt themselves to the altered conditions as speedily
+Rh√¶ti did not adapt themselves to the altered conditions as speedily
 as did their northern neighbours, the inhabitants of Noricum, with
 whom certain Roman habits and customs (including the system of
 municipal government) already obtained.
@@ -587,7 +553,7 @@ however, we think, altogether account for this, for history has over
 and over again proved that knowledge of the ground by the defenders
 and mountainous regions count heavily against successful attacks on
 the part of an invader. It can only therefore be supposed that the
-various tribes who formed the inhabitants of RhÊtia were either
+various tribes who formed the inhabitants of Rh√¶tia were either
 antagonistic to one another or at least were not welded together in a
 common cause against the invading Roman hosts, and thus the country
 was conquered and kept in subjection with greater ease than would
@@ -595,7 +561,7 @@ otherwise have been the case.
 
 As a result of the invasion by Drusus and Tiberius and the Roman
 legions the tract of country then and for some considerable time
-afterwards known as RhÊtia, but now known as Tyrol and the Vorarlberg,
+afterwards known as Rh√¶tia, but now known as Tyrol and the Vorarlberg,
 ultimately became Romanized, and by the making of the Brenner Post
 Road, which was constructed by the direction of the Emperor Augustus
 between Verona and Augsburg (Augusta Vindelicorum), communication
@@ -607,7 +573,7 @@ years until the present day.
 
 [Sidenote: ROMAN OCCUPATION]
 
-The Roman occupation of RhÊtia lasted for five centuries. Under the
+The Roman occupation of Rh√¶tia lasted for five centuries. Under the
 rule of Rome the inhabitants learned much of those arts which remained
 the heritage of conquered races long after the sway of the great Roman
 Empire had come to an end. And traces of that rule, in the form of
@@ -631,12 +597,12 @@ the Unter Innthal to differentiate it from the valley of the Upper Inn
 which runs from the frontier of Switzerland to Innsbruck.
 
 It was along the great military road leading from Verona to Augsburg
-that the chief RhÊto-Roman stations were placed. Amongst these were
+that the chief Rh√¶to-Roman stations were placed. Amongst these were
 Tridentum (Trent), Pons Drusi (Bozen), Vilpetenum (Sterzing), Matrejum
 (Matrei), Scarbio (Scharnitz), Veldidena (Wilten).
 
 At first, doubtless, these outposts of Roman civilization were little
-more than isolated fortresses, or even perhaps merely _speculÊ_ or
+more than isolated fortresses, or even perhaps merely _specul√¶_ or
 watch towers, and of these many examples still remain, from which not
 only could the road and its approaches be reconnoitred, but also
 signals both by day and by night could be made. In the first case by
@@ -681,11 +647,11 @@ Brenner.
 In Roman times the Brenner also formed a link between Aquileia, one of
 the most flourishing and important seaport cities on the Adriatic, and
 Noricum. As did also another, then important but nowadays almost
-deserted route, that of the Plˆcken Pass, of which it is believed
-CÊsar made frequent use. Along this several important stations were
+deserted route, that of the Pl√∂cken Pass, of which it is believed
+C√¶sar made frequent use. Along this several important stations were
 founded, amongst them Tricesimum, Julium Carnicum (Zuglio), Aguntum
 (Innichen), Lonicum (Lienz) and Sebatum (Schabs). Time, however, was
-destined to divert the trade from the Plˆcken Pass route to that of
+destined to divert the trade from the Pl√∂cken Pass route to that of
 the Brenner, and the settlements along the former gradually declined
 in importance.
 
@@ -694,7 +660,7 @@ much for military purposes as was afterwards the case. And it is not
 until the latter half of the second century of the Christian Era that
 we find it assuming importance as a military highway. Then the
 frequent incursions southward of various Germanic tribes caused the
-Romans to fully comprehend the strategical value of northern RhÊtia.
+Romans to fully comprehend the strategical value of northern Rh√¶tia.
 
 Two decades at least were occupied in the reconstruction of the
 surface and bridges along the road which had owed its origin to the
@@ -726,7 +692,7 @@ long ago.
 [Sidenote: ROMAN REMAINS]
 
 On the heels of Roman civilization, represented by commerce and
-travel, which was destined not only to permeate conquered RhÊtia, but
+travel, which was destined not only to permeate conquered Rh√¶tia, but
 to penetrate the regions beyond, in course of time there sprang into
 existence a fortress here and a castle there which not only served to
 hold the land, but also to encourage and initiate civilization and
@@ -740,32 +706,32 @@ Upon some of the castles, the ruins of which nowadays serve to render
 these rocky crags of undying interest, the stars must have looked down
 ere the dawn of the Christian Era.
 
-Of the occupation of RhÊtia by the Romans, unfortunately comparatively
+Of the occupation of Rh√¶tia by the Romans, unfortunately comparatively
 few authentic details have come down to us. But long ere the power of
 Rome had waned, never to reassume its pristine greatness, the problem
 of resistance to the invasion from the Teutonic tribes to the north
 and north-east had become a very real one. Towards the end of the
 third century A.D. the Alemanni crossed the Danube and threatened
-RhÊtia, and through it Italy. They were, it is true, defeated by the
+Rh√¶tia, and through it Italy. They were, it is true, defeated by the
 Emperor Maximianus, but the check inflicted was but temporary. About
-A.D. 260 RhÊtia was invaded several times by the same barbarian tribe,
+A.D. 260 Rh√¶tia was invaded several times by the same barbarian tribe,
 and on one occasion, at least, Tyrol was ravaged from end to end, and
 the invaders afterwards entered Italy, which they penetrated as far
 south as Ravenna, having first plundered and destroyed Verona. In the
 reign of Claudius (about 269) there was yet another invasion, and
 although the forces of Rome ultimately proved victorious in the
-struggle with the Teutonic hordes in a battle fought at NaÔssus on the
+struggle with the Teutonic hordes in a battle fought at Na√Øssus on the
 borderland of Tyrol and Italy, when 320,000 are said to have been
 slain, there was no lasting peace.
 
 The inroads of the Goths vexed many a quickly succeeding Emperor in
 the days when reigns were scarcely to be reckoned as frequently by
 years as by months, and it was not until the reign of Aurelianus that
-the Goths were driven out of RhÊtia and Vindelicia.
+the Goths were driven out of Rh√¶tia and Vindelicia.
 
 Under succeeding Roman rulers there were other raids by the Goths,
-and then at last along the roads of RhÊtia and over the passes of the
-Brenner and the Plˆcken poured the invading hosts which were destined
+and then at last along the roads of Rh√¶tia and over the passes of the
+Brenner and the Pl√∂cken poured the invading hosts which were destined
 to bring about the eclipse of the powerful Empire which had for so
 many centuries controlled the destinies of the greater part of the
 then known world.
@@ -774,25 +740,25 @@ Just as in our own land, history is almost silent for the period
 immediately following the departure of the Roman legions, drawn off to
 save Rome, if possible, from the invading hosts of the Goths and Huns,
 so was it in Tyrol. Of the years of devastation by fire and sword
-which succeeded the withdrawal of the Roman forces from RhÊtia there
+which succeeded the withdrawal of the Roman forces from Rh√¶tia there
 have come down to us but very scanty details. During this period much
 of Roman art and civilization was undoubtedly blotted out by the
 barbarian hordes; and, indeed, so far as can be ascertained, little of
-either was ultimately left in RhÊtia.
+either was ultimately left in Rh√¶tia.
 
 Theodoric, the Ostrogothic leader, who had conquered Italy in about
-489, planned RhÊtia and the Brenner as a barrier against the attacks
+489, planned Rh√¶tia and the Brenner as a barrier against the attacks
 of northern invaders, a tribe of whom (the Baiovarii) ultimately
-possessed themselves of Vindelicia and RhÊtia as far as the southern
+possessed themselves of Vindelicia and Rh√¶tia as far as the southern
 slope of the Brenner Pass. About this same period--the middle half of
 the sixth century--a very considerable portion of north-eastern Italy
-and that part of RhÊtia in the vicinity of Tridentum (Trent) was
+and that part of Rh√¶tia in the vicinity of Tridentum (Trent) was
 seized by the Longobards or Lombards. Their Italian Empire lasted for
 two centuries, and eventually included the larger portion of what is
 nowadays known as the Italian Tyrol.
 
 Meantime, the Baiovarii or Bavarians had conquered the upper part of
-RhÊtia, and in the beginning of the seventh century their Duke,
+Rh√¶tia, and in the beginning of the seventh century their Duke,
 Garibaldi II., succeeded in checking the frequent inroads of the
 Slavs, although he did not succeed in entirely excluding them from the
 country; in the eastern portion of which they remained for a
@@ -802,9 +768,9 @@ Charlemagne, who crushed the Lombards, and a few years later succeeded
 in also subduing the Baiovarii.
 
 During the centuries of internecine warfare, with its concomitants of
-rapine and chaos, which succeeded the evacuation of RhÊtia by the
+rapine and chaos, which succeeded the evacuation of Rh√¶tia by the
 Roman forces, most of the original inhabitants or peaceably disposed
-Romanized RhÊtians fled with other fugitives from the southern or
+Romanized Rh√¶tians fled with other fugitives from the southern or
 northern plains to the valleys and byways amid the mountains which
 hitherto probably had been almost if not entirely unpopulated. Here
 they settled, leaving the main routes open to the passage of the
@@ -815,7 +781,7 @@ hidden themselves amid the higher Alpine valleys and fastnesses.
 
 The result of this is seen in the circumstance that whilst in many
 cases the out-of-the-way places and villages to this day preserve
-their original Romanized RhÊtian names, those upon the main routes of
+their original Romanized Rh√¶tian names, those upon the main routes of
 travel have in many instances a purely Teutonic nomenclature.
 
 [Sidenote: "THE LAND IN THE MOUNTAINS"]
@@ -917,7 +883,7 @@ See is enshrined in Tyrol history and legend.
 The third family, the Counts of Tyrol, though originally by no means
 the most important, was destined to outlast the other two, and
 eventually to become possessed of most of the country and give its
-name to ancient RhÊtia. Although even in the days of the Roman
+name to ancient Rh√¶tia. Although even in the days of the Roman
 occupation there appears to have been a Castle Tyrol, which was the
 residence of a centurion, the family, as it is generally known, is
 supposed to have taken its origin from Count Hunfried who lived in the
@@ -936,7 +902,7 @@ eventually the whole country came to be known. Gradually one by one
 the possessions of the other nobles in Tyrol were taken from them or
 became absorbed by marriage in that of the Counts of Tyrol. Until
 about 1240 the then reigning Count Albert was able to style himself
-Prince Count (or gef¸rsteter Graf) of Tyrol so widespread and rich
+Prince Count (or gef√ºrsteter Graf) of Tyrol so widespread and rich
 were his possessions.
 
 The Principality thus formed remained a fief of the German Empire
@@ -947,7 +913,7 @@ The first of the Prince Counts of Tyrol was successful, in 1248, in
 obtaining from the Counts of Andechs the district of the Inn Valley,
 once the site of Roman Veldidena, which place tradition asserts was
 destroyed about A.D. 452 by the Huns under the leadership of Attila on
-their return through Tyrol after their defeat by AÎtius at the battle
+their return through Tyrol after their defeat by A√´tius at the battle
 of Chalons.
 
 During the early Middle Ages the Premonstratensian Abbey of Wilten had
@@ -1186,7 +1152,7 @@ his two brothers--Leopold and Albert.
 During this dual control the Bavarian relations of Margaret made
 frequent incursions into the country, especially in the neighbourhood
 of the Unter-Innthal, and in 1369 succeeded in obtaining a large sum
-from the Habsburgs at a temporary peace made at Sch‰rding. Ten years
+from the Habsburgs at a temporary peace made at Sch√§rding. Ten years
 later the dual sovereignty came to an end, the two brothers dividing
 the inheritance, Leopold taking Tyrol as his share. He was killed at
 the Battle of Sempach on July 9th, 1386, where the Swiss gained so
@@ -1267,7 +1233,7 @@ On the death of Frederick he was succeeded by his son Sigismund, then
 a mere lad of eleven or twelve years of age. The latter lived for some
 seven years at the Court of Vienna under the control of his guardian
 the Emperor Frederick III. Whilst in Vienna he became acquainted with
-one ∆neas Silvius de Piccolomini, afterwards Pope Pius II., a widely
+one √Üneas Silvius de Piccolomini, afterwards Pope Pius II., a widely
 travelled, able but licentious man who had journeyed so far afield as
 Scotland, and who poured such glowing descriptions of the beauty of
 the ladies of the Scottish Court into the young Duke Sigismund's ears
@@ -1276,7 +1242,7 @@ it happened that when the daughter of Charles VII., King of France,
 died (whom it had been intended by his father he should marry) the
 young Duke Sigismund wooed and won Eleanor, daughter of ill-fated
 James I. of Scotland, to whom as dowry the Duke gave the historic
-castles of Ambras, Imst, and Hˆrtenburg for life. This gifted princess
+castles of Ambras, Imst, and H√∂rtenburg for life. This gifted princess
 lived in Tyrol for a period of more than thirty years, and by her
 gentle manners, love of sport, especially hawking and hunting, and
 social accomplishments made herself much beloved by her husband's
@@ -1361,7 +1327,7 @@ bring ruin upon princes."
 
 During the reign of Maximilian to Tyrol was added other and
 considerable new territory, including the Ampezzo district; Rovereto;
-the three lordships of Rattenberg, Kitzb¸hel, and Kufstein; the towns
+the three lordships of Rattenberg, Kitzb√ºhel, and Kufstein; the towns
 of Riva and Arco; a portion of the present Vorarlberg; and a portion
 of the Pusterthal. Maximilian also did something for education in his
 capital of Innsbruck, where he built a new palace which was first used
@@ -1838,7 +1804,7 @@ ignored. Amongst other things, by the subsequent Treaty, Austria ceded
 all her sea coast to France, as well as considerable territory to
 Saxony and Bavaria. But it was not until the French, Bavarian, and
 Saxon troops, straight from their victory at Wagram, to the number of
-some 50,000 men, entered Tyrol under the command of Marshal LefËbre,
+some 50,000 men, entered Tyrol under the command of Marshal Lef√®bre,
 and the Austrian army marched away out of Innsbruck in full retreat
 before the advancing enemy, that Hofer realized that he and his cause
 once more were abandoned by the Emperor and his advisers.
@@ -1856,7 +1822,7 @@ undying, unyielding patriotism. Gathering his forces together in a
 gorge of the Mittewald he awaited the enemy's advance. We cannot do
 better than draw in part, for a description of what followed, from the
 stirring and vivid narrative of Albert Wolff. The vanguard of Marshal
-LefËbre under the command of General Rouyer advanced to Sterzing; and
+Lef√®bre under the command of General Rouyer advanced to Sterzing; and
 then a column of Saxon troops to the number of about 4000 was thrown
 out beyond the village towards the gorge of Stilfes with orders to
 sweep away the insurgents. The idea that the untrained, ill-armed, and
@@ -1891,7 +1857,7 @@ fled along the road back to Innsbruck.
 In little more than a week Hofer, by a vigorous following up of his
 victory in the Pass of Stilfes, had once more repulsed the invader,
 retaken the position on Berg Isel, and established his headquarters at
-Schˆnberg. These historic eight days of fighting and victory are known
+Sch√∂nberg. These historic eight days of fighting and victory are known
 in Tyrolese history as "the great week."
 
 Innsbruck still, however, remained in the occupation of the enemy. To
@@ -1915,8 +1881,8 @@ horse forward into battle." With his long beard, which had gained him
 the nickname of General Barbonne amongst the French, flowing in the
 wind, and his war cry of "Onward for your country and your Emperor!
 God will protect the right!" he led his forces so irresistibly that
-the troops of Marshal LefËbre gave way and evacuated the town. On the
-following day, August 15th, which was the fÍte of the Blessed Virgin,
+the troops of Marshal Lef√®bre gave way and evacuated the town. On the
+following day, August 15th, which was the f√™te of the Blessed Virgin,
 Hofer, at the head of his victorious peasants, made his third entry as
 victor into the capital.
 
@@ -1970,7 +1936,7 @@ Speckbacher, too, was deserted by all save a mere handful of men, and
 after remaining in hiding for some time and escaping capture by a
 miracle he succeeded in getting to Vienna. The Capuchin Haspinger
 afterwards joined him there, and was ultimately made curate of
-Hietzing, near Schˆnbrunn. It then became clear to Hofer that to
+Hietzing, near Sch√∂nbrunn. It then became clear to Hofer that to
 continue the struggle for freedom just then was useless and, indeed,
 impossible; so he dispersed his own handful of faithful friends and
 supporters, telling them, "We shall meet again before long, for Tyrol
@@ -2167,10 +2133,10 @@ of even the southern portion of Tyrol is being brought about. In one
 or other of these dialects which so survive, scholars and philologists
 of former times have thought the key to the ancient language of
 Etruria might be discovered; and in more modern days there has been
-the same hope expressed, but as yet it is unfulfilled. M¸ller,[7] for
+the same hope expressed, but as yet it is unfulfilled. M√ºller,[7] for
 one, thought that in some secluded valley of the Tyrol or Grisons the
-key to the riddle in the form of "a remnant of the old RhÊtian dialect
-might be discovered." M¸ller's hope has since then in a measure been
+key to the riddle in the form of "a remnant of the old Rh√¶tian dialect
+might be discovered." M√ºller's hope has since then in a measure been
 realized through the efforts and researches of Steub, who, whilst
 travelling in Tyrol in Alpine districts in 1842, found some
 fragmentary remains of a dialect approaching very nearly Etruscan,
@@ -2182,7 +2148,7 @@ travels. Then he collected these, and we are told set to work "testing
 them with Celtic, but discovering no analogy he tried other tests, and
 with the Etruscan met with some considerable success," which was
 chiefly valuable, however, as confirming the theory and ancient
-traditions of a RhÊto-Etruria. Many of his conclusions, however, have
+traditions of a Rh√¶to-Etruria. Many of his conclusions, however, have
 never been accepted by philologists either of his own day or of later
 times; and some of the word examples he gives as having analogies are
 quite incomprehensible to the ordinary student.
@@ -2192,17 +2158,17 @@ quite incomprehensible to the ordinary student.
 To all intents and purposes German and Italian are the languages
 spoken throughout Tyrol, a knowledge of which will be sufficient for
 all ordinary purposes of travel. The former prevailing in the
-Vorarlberg and North Tyrol; the latter in South Tyrol and W‰lsch
+Vorarlberg and North Tyrol; the latter in South Tyrol and W√§lsch
 Tyrol, though German is found in both of these districts, and in South
 Tyrol very considerably.
 
 In the Vorarlberg, however, one comes across numerous words and
 expressions which are undoubtedly of Italian origin, and are remaining
 evidences of the periods when the Venetian Republic ruled over a
-district now a part of Tyrol. The Italian word _g˙tto_, a can or
+district now a part of Tyrol. The Italian word _g√∫tto_, a can or
 feeding-bottle, for example, has its counterpart in _guttera_; whilst
-from _fazzolÈtto_, a handkerchief, one has _fazanedle_; and from
-_gaudio_, joy, we have _gaude_; and from _cappÈllo_, a hat, has
+from _fazzol√©tto_, a handkerchief, one has _fazanedle_; and from
+_gaudio_, joy, we have _gaude_; and from _capp√©llo_, a hat, has
 probably come _schapel_.
 
   [Illustration: A VIEW OF THE TYROL ALPS]
@@ -2210,7 +2176,7 @@ probably come _schapel_.
 A very considerable number of words of French origin or of marked
 similarity to French words are found in parts of the Vorarlberg.
 _Gespousa_, a bride, has a distinct philological affinity to
-_Èpouse_; and _au_, water, pronounced very similarly, can be traced to
+_√©pouse_; and _au_, water, pronounced very similarly, can be traced to
 _eau_, and is found common to both North Tyrol and the Vorarlberg.
 _Shesa_, a trap or gig, bears a marked resemblance to the French
 _chaise_.
@@ -2288,13 +2254,13 @@ ago, and we believe now hangs, the tile with the mark of the priest's
 hand branded into it, beneath which is written an account of the
 miracle, with the date February, 1660.
 
-In W‰lsch Tyrol, especially, there are many folk-lore tales having a
+In W√§lsch Tyrol, especially, there are many folk-lore tales having a
 distinctly Biblical origin or suggestion. Possibly they are oral
 versions of Bible incidents handed down from generation to generation
 in the early years of Christianity and during the Middle Ages, until
 they have gradually in process of time and varied repetition lost
 their strictly Biblical character. One of the most usually met with
-(it is told by most W‰lsch Tyrol mothers to their children, and is a
+(it is told by most W√§lsch Tyrol mothers to their children, and is a
 favourite on account of its dramatic end, and because virtue triumphs)
 bears a very strong resemblance to the story of Joseph and his
 Brethren. The story runs thus: "Once long ago there lived a king who
@@ -2366,7 +2332,7 @@ to pass through the dominions of the reigning Count of Tyrol and the
 Prince Bishop of Trent exempt from the toll which would otherwise have
 been levied.
 
-In W‰lsch Tyrol there is a curious Christmas custom still to be met
+In W√§lsch Tyrol there is a curious Christmas custom still to be met
 with which consists of the arrangement, by the father of the family,
 of a number of heaps of flour upon a table or shelf. In these are
 hidden various little presents, and when the children and other
@@ -2399,9 +2365,9 @@ remote valleys.
 
 As showing the almost universal prevalence of certain ideas underlying
 customs, though often varying in details, one may quote the observance
-of All Souls in W‰lsch Tyrol, which bears a marked resemblance to the
+of All Souls in W√§lsch Tyrol, which bears a marked resemblance to the
 beautiful and even more pathetic ceremonials connected with the Feast
-of Bon Matsuri in far-off Japan. In parts of W‰lsch Tyrol, although
+of Bon Matsuri in far-off Japan. In parts of W√§lsch Tyrol, although
 the graves of the departed are not decorated nowadays, as is so much
 the practice in Germany, the parish priests gather their parishioners
 together in the churchyards and recite the Rosary whilst kneeling
@@ -2437,7 +2403,7 @@ for the merry-making.
 From the time the wedding is announced or the "banns" published the
 betrothed maiden is known as the "Pulpit Bride" or _Kansel-Braut_.
 These village wedding festivities are often rendered picturesque and
-even mediÊval in effect, as the peasants frequently wear the costumes
+even medi√¶val in effect, as the peasants frequently wear the costumes
 of former times, and the barn is lighted by pine torches or equally
 primitive methods. The dancing is kept up till early morning, in fact
 often until sunrise; and not till then do the guests disperse, some of
@@ -2474,7 +2440,7 @@ Virgin, and for that reason highly valued.
 [Sidenote: COSTUMES]
 
 Very frequently a Tyrolese bride wears no special bridal dress, but
-her holiday or _fÍte_ dress, which has perhaps been retrimmed or
+her holiday or _f√™te_ dress, which has perhaps been retrimmed or
 additionally embellished for the occasion. This was the case at a
 wedding at which we were present in the Unter-Innthal, where the
 bridesmaids also wore their picturesque festal attire, with
@@ -2591,7 +2557,7 @@ it is a notable circumstance that although there is a good deal of
 eating there is not often excessive drinking on these occasions, and
 cases of actual drunkenness are very few and far between.
 
-Several of the valleys--the Zillerthal, Iselthal, and Grˆdenerthal in
+Several of the valleys--the Zillerthal, Iselthal, and Gr√∂denerthal in
 particular--have their own peculiar wedding customs. And in several,
 as in parts of Germany, the old custom of stealing one of the garters
 of the bride whilst she is seated at the wedding feast for the purpose
@@ -2725,7 +2691,7 @@ FOOTNOTES:
 
 [7] In "Etrusker," Einl. 3, 10 _et seq._
 
-[8] "‹ber die Urbewohner R‰tiens und ihren Zusammenhang mit den
+[8] "√úber die Urbewohner R√§tiens und ihren Zusammenhang mit den
 Etruskern."
 
 [9] Or ornament.
@@ -2824,7 +2790,7 @@ limestone mountains towering above the fertile Inn Valley, the
 Frauhitt and Martinswand with their romantic traditions and memories,
 the Seegrubenspitzen, and Rumerjoch and Brandjoch. In fine weather
 they appear but a stone's throw from the bottom of the
-Maria-Theresien-Strasse, or from the Ferdinands AllÈe which runs along
+Maria-Theresien-Strasse, or from the Ferdinands All√©e which runs along
 the south bank of the Inn, with its maples and poplars graceful and
 shady.
 
@@ -2907,7 +2873,7 @@ settlement of people--small at first--had taken place at this crossing
 or ford of the Inn, brought into existence by the growing and
 profitable commerce between Germany and Italy by way of the Brenner.
 Both the travelling merchants and the Tyrolese themselves soon found
-the place a convenient depÙt for the heavier goods and articles of
+the place a convenient dep√¥t for the heavier goods and articles of
 merchandise, such as skins, wines, cloths, and metal ware; and as the
 years went by it gradually grew to be more than a convenient
 halting-place for the merchants and their pack trains on their
@@ -2920,7 +2886,7 @@ encircled it with walls, fortifications, and watch-towers, and also
 built himself a palace.
 
 The rise of Innsbruck was from the middle of the thirteenth century a
-steady one. At that period it was made the sole depÙt for the storage
+steady one. At that period it was made the sole dep√¥t for the storage
 of goods between the Zillerthal and the Melach; and as the years went
 by other privileges were granted to the steadily growing town, which
 not only served to maintain but also to increase its importance.
@@ -3027,8 +2993,8 @@ the famous roof.[10] Outside the house which was then the Furstenburg
 or princely dwelling, now very ordinary looking and far less imposing
 and ornate in character than say the Heblinghaus hard by, he in 1425
 erected over the two-storied balcony the "Goldne Dachl," on which
-piece of mediÊval display of wealth he is stated to have expended
-30,000 ducats or about £14,000. In it there are 3450 gilt upon copper
+piece of medi√¶val display of wealth he is stated to have expended
+30,000 ducats or about ¬£14,000. In it there are 3450 gilt upon copper
 tiles, which have several times since Frederick's day been regilded.
 The last occasion on which this was done is upwards of twenty years
 ago.
@@ -3076,7 +3042,7 @@ manners and love of the chase and mountaineering.
 
 [Sidenote: ANCIENT INNS]
 
-Amongst the many interesting mediÊval buildings which have happily
+Amongst the many interesting medi√¶val buildings which have happily
 survived in Innsbruck there are several in the immediate neighbourhood
 of the famous "Goldne Dachl." One of the oldest, if not the oldest, is
 the Ottoburg of Otto I. standing at the end of the
@@ -3119,7 +3085,7 @@ at the Inn.
 
 One of the most delightful vistas of the old town is to be obtained
 from the corner where stand the three well-known Inns, the Goldener
-Hirsch, Rother Adler, and Goldener Lˆwe; whilst from the balcony of
+Hirsch, Rother Adler, and Goldener L√∂we; whilst from the balcony of
 the old Stadtthurm or belfry a fine view over the town and of the
 environing mountain summits rewards the adventurous climber.
 
@@ -3199,13 +3165,13 @@ transference to Innsbruck was one of the main causes of the town
 becoming the capital of Tyrol.
 
 Close by is the church of the Sevites, with its famous dome decorated
-by the paintings of the well-known Tyrolean artist, Joseph Schˆpf,
+by the paintings of the well-known Tyrolean artist, Joseph Sch√∂pf,
 depicting the death of St. Joseph and his entry into paradise.
 
 The University, which stands in the street of that name, has undergone
 some considerable vicissitudes. Founded by the Emperor Leopold I. in
 1677, it was, by the Emperor Joseph II., reduced to the standing of a
-LycÈe, but was once more accorded the dignity of a University in 1826.
+Lyc√©e, but was once more accorded the dignity of a University in 1826.
 In the valuable library of upwards of 75,000 volumes there are many
 illuminated MSS. of great beauty and value, as well as a number of
 early fifteenth-century books. The adjoining Botanical Garden, which
@@ -3215,7 +3181,7 @@ the summer months those who wish to study Alpine flowers will find
 grouped and gathered together specimens which it would take many
 months and perhaps even years to study and discover on one's own
 initiative in their native habitats. The University is, however, about
-to be transferred to a more convenient home on the F¸rstenweg near the
+to be transferred to a more convenient home on the F√ºrstenweg near the
 Inn, and the old building will, alas! probably be pulled down and the
 site used for modern houses.
 
@@ -3280,7 +3246,7 @@ told), and the then Burgomaster took a vow to see that the building
 was erected. From the time of which vow, tradition tells us, "the
 pestilence at once began to abate."
 
-An altar-piece, the artist of which was Stˆtzl, was given by
+An altar-piece, the artist of which was St√∂tzl, was given by
 Maximilian himself. It represented the three patron saints against
 sickness: St. Sebastian, who stayed a plague in Rome by his
 intercession; St. Martha, who according to tradition founded a
@@ -3316,22 +3282,22 @@ national customs of the country in the various domains of art,
 science, and industry, the collections have gradually been enlarged
 and expanded so as to contain examples of art by members of well known
 foreign schools. The present museum is a comparatively modern
-building, with a faÁade in the Italian Renaissance style. The ground
+building, with a fa√ßade in the Italian Renaissance style. The ground
 floor was commenced in 1842, and the upper story added in 1886.
 
-On the ground floor are some most interesting archÊological remains,
+On the ground floor are some most interesting arch√¶ological remains,
 including several ancient Roman milestones from the Brenner road and
 elsewhere; burial urns from Matrei; bronze statuettes of Roman days
 from Brixen and Innicherberg; many ornaments of the Roman period from
 Meran, Moritzing, Zedlach and other places. From Salurn, in the valley
 of the Eisack, there are some Roman tombs, with the ornaments of the
 dead, and household and toilet utensils and articles of great value
-and interest. One of the most important objects in the archÊological
+and interest. One of the most important objects in the arch√¶ological
 section of the Museum is the sarcophagus, arms and ornaments of a
 Lombardian prince disinterred at Civezzano, near Trent. The coffin was
 richly ornamented by gold bands, and in it was found a gold cross.
 
-Zoology, Geognosy, PalÊology, and Mineralogy are represented with
+Zoology, Geognosy, Pal√¶ology, and Mineralogy are represented with
 remarkable fulness, and in the last-named section of the Museum is to
 be found almost every Tyrolese mineral discovered up to the present
 time. Some of the specimens are of great beauty and value.
@@ -3374,7 +3340,7 @@ work is concerned is, we believe, unrivalled. There is presented for
 the information of the student as well as the ordinary visitor an
 astonishingly complete survey of Tyrolese painting from the earliest
 times, including the work of the schools of Brixen-Neustift, and the
-Pusterthal, with representative work by such masters as Andr‰ Haller
+Pusterthal, with representative work by such masters as Andr√§ Haller
 and Michael Pacher; and also examples of the old Flemish and German
 masters, including Lucas Cranach, St. Jerome, Altdorfer, Pateiner,
 etc., Innsbruck painters being represented by Sebastian Schel.
@@ -3382,9 +3348,9 @@ etc., Innsbruck painters being represented by Sebastian Schel.
 Well worth the attention of all interested in painting and its
 development as an Art are the works of the Tyrolese masters covering
 the period from the seventeenth century to the present day, which are
-well represented by pictures of the Unterberger family, Joseph Schˆph,
+well represented by pictures of the Unterberger family, Joseph Sch√∂ph,
 John Baptist Lampi, Angelica Kaufmann, Gebhard Flatz (Fra Angelico),
-Joseph A. Koch, Mathias Schmidt, E. von Wˆrndle, Karl Blaas and
+Joseph A. Koch, Mathias Schmidt, E. von W√∂rndle, Karl Blaas and
 others. Amongst the more notable pictures of the modern school are the
 "Chancellor Wilhelm Biener at the Innsbruck Landtag," of Karl
 Anrathers, and the historical masterpieces of Franz Defregger.
@@ -3435,7 +3401,7 @@ or Palace; and the Hofkirche or Church of the Franciscans. They are
 easily reached from the Ferdinandeum along Museum-strasse and the
 Burggraben, which may be said to form the boundary line dividing the
 old town from the new. The archway, through which one reaches both the
-Palace and the Church, formed, in mediÊval times, one of the city
+Palace and the Church, formed, in medi√¶val times, one of the city
 gates; and in those far-off times was crowned by a watch-tower upon
 which the many escutcheons of the Habsburgs were emblazoned. It was
 taken down in the time of Maria Theresa, as its condition had become
@@ -3467,7 +3433,7 @@ Castle Chapel of Wiener-Neustadt. Tradition states that the building
 had been contemplated by Maximilian, and was ultimately brought into
 being in accordance with his will. The architect of the church, which
 is in the Italian Renaissance style, was Thuring of Innsbruck,[11] and
-the ground plan follows the lines of a columnar basilica. L¸bke,
+the ground plan follows the lines of a columnar basilica. L√ºbke,
 however, states that it was the tomb and not the building which
 Maximilian himself planned in collaboration with Gilg Sesselschreiber,
 a Munich artist, who occupied the position of painter to the Court.
@@ -3509,7 +3475,7 @@ construction of this marvellous example of German Renaissance
 monumental work erected during the sixteenth century, and that it was
 necessarily the work of several designers as well as many different
 hands. The tomb is a wonderful, perhaps even unequalled, example of
-the German art of a period which marked the blending of the mediÊval
+the German art of a period which marked the blending of the medi√¶val
 and the modern. To the Imperial designer of the tomb the chivalric
 figures he chose to surround it were no mere abstractions but living,
 breathing entities; just as the old feudal Empires of south-eastern
@@ -3523,10 +3489,10 @@ of but few foreign visitors, but are now objects of keenest interest
 to all comers to the capital of Tyrol, are by several hands. The two
 of surpassing beauty of design and execution are those of King Arthur
 of England, and King Theodoric. They are nowadays pretty generally
-supposed to have been the work of Peter Vischer of N¸remberg.
+supposed to have been the work of Peter Vischer of N√ºremberg.
 
 These two statues have a particularly interesting history which has
-been brought to light of recent years. Though cast at N¸remberg in
+been brought to light of recent years. Though cast at N√ºremberg in
 1513, and costing no less than one thousand florins, it was not until
 nearly twenty years had elapsed that they reached Innsbruck. In the
 meantime, owing to Maximilian's need of ready money, they had been in
@@ -3620,13 +3586,13 @@ compelled by the Emperor to take up his residence at Natters on the
 western side of the Sill Gorge above Innsbruck.
 
 The casting of the statues was largely done by the famous Gregor
-Lˆffler, who established a bronze foundry near Innsbruck, and also
-built the Castle of B¸chsenhausen, although some of the statues were
+L√∂ffler, who established a bronze foundry near Innsbruck, and also
+built the Castle of B√ºchsenhausen, although some of the statues were
 undoubtedly cast by Stephen and Melchior Godl and Hans Lendenstreich
-who worked at the M¸hlau foundry on the outskirts of Innsbruck.
+who worked at the M√ºhlau foundry on the outskirts of Innsbruck.
 Although the designing and casting of the statues is now generally
 accepted as being the work of the men we have named, it is more than
-possible that the idea of the whole complete piece of mediÊval and
+possible that the idea of the whole complete piece of medi√¶val and
 historical symbolism was that of some comparatively unknown brother of
 the Franciscan order. Originally the scheme was designed to include,
 in addition to the figures we have mentioned, twenty-three others of
@@ -3791,7 +3757,7 @@ better than on this one. The Empress Maria Bianca is seated on the
 left of the Emperor, Ludovico Sforza kneels before the throne; on the
 waving standard, the symbol or investiture, the ducal arms are
 plainly discernible. (12) The marriage at Brussels, in 1496, of Philip
-der Schˆne, Maximilian's eldest son, with Johanna, daughter of
+der Sch√∂ne, Maximilian's eldest son, with Johanna, daughter of
 Ferdinand and Isabella of Spain, by the Archbishop of Cambrai.
 
 The remaining panels show (13) The campaign in Bohemia, and victory of
@@ -3871,7 +3837,7 @@ Adelbert, Count of Brabant. (3) St. Doda, wife of St. Arnulf, Duke of
 the Moselle. (4) St. Hermelinda, daughter of Witger, Count of Brabant.
 (5) St. Guy, Duke of Lotharingia. (6) St. Simpert, Bishop of Augsburg,
 son of Charlemagne's sister Symporiana, who rebuilt the monastery of
-St. Magnus at F¸ssen. (7) St. Jodok, son of a king of Great Britain,
+St. Magnus at F√ºssen. (7) St. Jodok, son of a king of Great Britain,
 wearing a Palmer's dress. (8) St. Landerich, Bishop of Metz, son of
 St. Vincent, Count of Hainault, and St. Waltruda. (9) St. Clovis. (10)
 St. Oda, wife of Duke Conrad. (11) St. Pharaild, daughter of Witger,
@@ -4038,7 +4004,7 @@ collapsed. The popular belief in the two giants is kept alive by the
 huge wooden statues representing them, which are placed at the
 entrance of the church. The interior of the building is in the form of
 a basilica, and contains not only frescoes by Caspar Waldmann, but
-also some good pictures by Grasmayr, Busj‰ger, Andersag, Egid Schor,
+also some good pictures by Grasmayr, Busj√§ger, Andersag, Egid Schor,
 and other artists.
 
 The Abbey of Wilten in those days was one of the three most important
@@ -4073,7 +4039,7 @@ the eighteenth century, and was built as a secular church in
 conformity with the decree of the Emperor Joseph II., by Franz Penz of
 Telfs, in the Rococo style of architecture. On the high altar of the
 church is a very ancient and quaint Madonna known as "Mutter Gottes
-unter den vier Sa¸len" carved in sandstone, the legend relating to
+unter den vier Sa√ºlen" carved in sandstone, the legend relating to
 which is as follows: The "Thundering Legion" of Marcus Aurelius, when
 stationed at Veldidena about the year 137, brought this image with
 them, which they are stated to have worshipped, and on one occasion,
@@ -4086,7 +4052,7 @@ dug it up and set it upon the altar in a _baldachino_, which was
 supported by four pillars, where it has always been an object of much
 veneration. Amongst its many famous devotees was Frederick of the
 Empty Purse, who, during his wanderings through Tyrol with his trusty
-Hans Von M¸llinen, when under the ban of the church, came and knelt
+Hans Von M√ºllinen, when under the ban of the church, came and knelt
 before the shrine and prayed for a blessing. Afterwards, when he had
 regained his possessions, he attributed his success to the
 intervention of the Madonna at Wilten and caused a picture to be
@@ -4192,7 +4158,7 @@ FOOTNOTES:
 [11] By some authorities the work is stated to have been carried out
 by Andrea Crivelli of Trent.
 
-[12] See Klˆppel's "Maximilian."
+[12] See Kl√∂ppel's "Maximilian."
 
 [13] This is as stated in Baedeker, and is the view of several
 authorities, though by no means certain.-C. H.
@@ -4231,7 +4197,7 @@ century were one of the three chief ruling families in Tyrol. Indeed,
 until the Terriolis became Counts of Tyrol they were the most powerful
 of the three great temporal territorial lords, and previous to their
 extinction in the male line in the middle half of the thirteenth
-century had acquired vast possessions. They were a typical mediÊval
+century had acquired vast possessions. They were a typical medi√¶val
 and feudal family, distinguished alike in the council and upon the
 stricken field. In turn it provided officers of the Roman Empire,
 pilgrims to sacred shrines, and to Rome itself, crusaders and
@@ -4264,7 +4230,7 @@ German Emperor Ferdinand I., will probably never be accurately known.
 But the event is indissolubly bound up with Tyrolese history. Not
 unnaturally the idyllic and romantic circumstances surrounding the
 marriage have been much overlaid by tradition and the possible desire
-of historians to make this Royal mÈsalliance yet more astonishing.
+of historians to make this Royal m√©salliance yet more astonishing.
 Therefore it is impossible to vouch for the entire accuracy of the
 story that has come down to us, which we give as it may be gathered
 from contemporary and more modern writers.
@@ -4457,20 +4423,20 @@ the Court Library at Vienna.
 Nothing was too good for Philippine in the estimation of the Archduke.
 Not only did he give her the magnificent Schloss Ambras, Stubai
 Valley, and all it contained, several villages, and vast sums of
-money, but also the estates of Kˆnigsberg, Salurn, and Hˆrtenberg.
+money, but also the estates of K√∂nigsberg, Salurn, and H√∂rtenberg.
 
 [Sidenote: COURT AT CASTLE AMBRAS]
 
 The Court at Innsbruck and at Castle Ambras was a gay one, and
 numerous brilliant entertainments were given during the married life
-of Ferdinand and Philippine. Amongst the many _fÍtes_ which took place
+of Ferdinand and Philippine. Amongst the many _f√™tes_ which took place
 at various times one finds a record of one in the diary of James von
 Payersberg bearing the date of July 13, 1570, in which there is a
 record of Philippine having won the first prize, which was a silver
 gilt cup of great value, for shooting with a crossbow; whilst her
 aunt, Madame De Loxan, who on Philippine's marriage had been appointed
 as her Mistress of the Robes, won the second. An interesting
-circumstance in connection with this _fÍte_ is that the gentlemen and
+circumstance in connection with this _f√™te_ is that the gentlemen and
 ladies competed together in the shooting match, with the result that
 the former were defeated in the manner we have stated.
 
@@ -4559,7 +4525,7 @@ Philippine Welser, etc.
 
 On the ground floor of the Hoch Schloss or "upper castle" is an
 interesting and well-restored fifteenth-century Gothic chapel, with
-some frescoes by Wˆrndle; and a bathroom, said to be that of
+some frescoes by W√∂rndle; and a bathroom, said to be that of
 Philippine, is on the same floor. It was around this little room that
 tradition wove the tragic story (since disproved and altogether
 discredited) of Philippine having committed suicide by opening one of
@@ -4677,7 +4643,7 @@ street.
 [Sidenote: BEAUTIFUL IGLS]
 
 One of the most beautiful walks hereabouts is that by the path which
-leads down through the woods to G‰rberbach inn on the great Brenner
+leads down through the woods to G√§rberbach inn on the great Brenner
 High Road, from which point Berg Isel can be reached on foot in less
 than half an hour.
 
@@ -4870,7 +4836,7 @@ Hall, from time immemorial famous for its salt mines, is well worth a
 visit. Lying on the north or opposite side of the Inn to Igls, and to
 the east of Innsbruck, it can be reached either by the prosaic
 post-road which traverses the Valley, or from Igls by the beautiful
-Ellbˆgen road--a branch of the Brenner road dating from Roman
+Ellb√∂gen road--a branch of the Brenner road dating from Roman
 times--passing over the Mittelgebirge and through Igls, Lans, Aldrans,
 Ampass, across the bridge over the Inn to Hall, which is somewhat
 longer. Equally picturesque, perhaps one might say even more so, is
@@ -4882,7 +4848,7 @@ are pressed for time.
 
 [Sidenote: SOME PRETTY VILLAGES]
 
-From M¸hlau onwards one has most exquisite views of the broad and
+From M√ºhlau onwards one has most exquisite views of the broad and
 fertile valley, and the magnificent mountains which tower above the
 wooded slopes, swelling gently upward from the Inn, in wild and craggy
 peaks of rugged beauty. This walk is rendered additionally attractive
@@ -4952,7 +4918,7 @@ mentioned, namely, Torro, Rumo, and Arz.
 
   [Illustration: THE MARKET PLACE, HALL]
 
-[Sidenote: HALL AND ITS M‹NSTERTURM]
+[Sidenote: HALL AND ITS M√úNSTERTURM]
 
 Hall, which is one of the most picturesque, busy, and interesting
 little towns in the neighbourhood of Innsbruck, with some 6000
@@ -4962,12 +4928,12 @@ derived from the Greek word [Greek: halos], salt; the reason for such
 derivation from an unlikely language he does not, however, in any way
 seek to explain. As one enters the town one is at once struck by the
 strange and quaint mingling of the picturesque with the utilitarian,
-the rural with the mediÊval. Long before one reaches the town one sees
+the rural with the medi√¶val. Long before one reaches the town one sees
 in the distance the greenish copper cupolas of the Pfaarkirche or
 Parish Church which has so fine a Gothic portal and interesting
 relics, around whose walls shops are grouped; and rising above the
 other less lofty and less time-mellowed buildings, the massive Gothic
-tower known as the M¸nsterturm with its red "pepper-box" roof of Roman
+tower known as the M√ºnsterturm with its red "pepper-box" roof of Roman
 origin, although the present tower was built by Duke Sigismund, the
 famous son of Frederick of the Empty Purse. A steeply ascending street
 leads to the market square, in which the Pfaarkirche and Rathaus stand
@@ -4988,7 +4954,7 @@ distinctly smoky town; but it is seldom that the smoke hangs in the
 clear and fresh Alpine air which sweeps along the Inn valley down
 from the environing hills.
 
-The M¸nsterturm, mint tower, which, as we have said, is so prominent
+The M√ºnsterturm, mint tower, which, as we have said, is so prominent
 an object on approaching the town, is of historical interest from the
 fact that it was built to enable Duke Sigismund, known as the Rich, to
 turn into coin his great store of silver taken from the Tyrol
@@ -5177,7 +5143,7 @@ and at last created so great a stir that the Dean of Innsbruck himself
 heard of it, and resolved to investigate the story. After he had
 visited the place a committee of inquiry was formed, amongst the
 members of which were two learned professors of chemistry and the
-well-known artist, Joseph Schˆpf.
+well-known artist, Joseph Sch√∂pf.
 
 After considerable investigation and the examination of witnesses the
 committee declared that the glass had originally formed part of a
@@ -5234,7 +5200,7 @@ character. Following up this clue, he discovered the Salzberg itself
 with its practically inexhaustible supply. Ever since Rohrbach's time
 the mountain has been worked for its salt, and until recent years,
 when blasting came into common use, much in the same way as in
-mediÊval times, viz. by hewing huge caverns in the rock, which are
+medi√¶val times, viz. by hewing huge caverns in the rock, which are
 then filled with water and sealed up. After a considerable period has
 elapsed this water is run off into conduits leading down to Hall,
 where it is evaporated in pans. How heavily charged with salt the
@@ -5423,7 +5389,7 @@ upon it a distinction of its own. One, the Kapuzingerberg, on the
 eastern side of the river, rises to the height of 800 feet, and the
 second, on the western side, to a height of nearly 450 feet above the
 city. It is between these two that the greater part of the old town
-lies. The steep sides of the Mˆnchsberg and the Gibraltar-like rock on
+lies. The steep sides of the M√∂nchsberg and the Gibraltar-like rock on
 which the old, grey fortress of Hohen-Salzburg stands are ivy-clad,
 and in the crevices and fissures wall-flowers, valerian, stone-crop,
 houseleek, and other flowering and lichen-like plants have taken root,
@@ -5525,7 +5491,7 @@ dominating them, from which point the mountains gradually decrease in
 height. From Golling onwards, however, the western side of the valley
 is shut in by great peaks, some of which spread out their lower and
 rounded emerald green slopes towards the river. Of these impressive
-and beautiful mountains the Hohe Gˆll, 8275 feet, the majestic
+and beautiful mountains the Hohe G√∂ll, 8275 feet, the majestic
 Watzmann, 9050 feet, the chief of the Berchtesgaden group, are the
 most noticeable. The cave-pierced and lofty, dome-shaped Untersberg,
 the highest point of which is the Berchtesgadener Hochtron of 6480
@@ -5551,7 +5517,7 @@ near Salzburg, which have since very early days down till
 comparatively recent times been of great commercial importance, were
 not only worked in the days of the Roman occupation, but also even in
 pre-historic times. There is little reason for doubt, indeed, that the
-Celts knew of, and used, the famous salt mines of the D¸rnberg and the
+Celts knew of, and used, the famous salt mines of the D√ºrnberg and the
 copper mines of the Mitterberg; whilst there is abundant evidence of
 various kinds of the working of the gold and silver mines of the
 Tauern district by the Romans during their occupation of the country.
@@ -5587,7 +5553,7 @@ told that even as early as the year A.D. 472 St. Severinus, whilst
 journeying through Noricum, with which country Salzburg had been
 incorporated by the Romans, found numerous Christian churches and
 minsters established. A relic of these times still exists set in the
-perpendicular walls of the Mˆnchsberg, where high up, with some of its
+perpendicular walls of the M√∂nchsberg, where high up, with some of its
 windows overshadowed by creepers and trees, is a very small church
 built into the mountain itself; reached by a dark, steep flight of
 steps cut in the rock, worn by the feet of countless generations, and
@@ -5630,7 +5596,7 @@ him, including among many others those of Itzling, Oping (Upper
 Innsbruck), and a third part of the famous Hall Salt Spring. The
 Bishop set to work, and on the ruins of the old Roman settlement he
 soon established a town, building a convent and a church under the
-steep rocks of the Mˆnchsberg, where now the large Benedictine Convent
+steep rocks of the M√∂nchsberg, where now the large Benedictine Convent
 and St. Peter's Church stand, in the latter of which the bones of the
 saint are said to lie buried.
 
@@ -5722,7 +5688,7 @@ and tranquillity once more reigned.
 
 During the next century Salzburg was involved in political disputes
 and took part in the Battle of Muhldorf, on September 28, 1322,
-fighting on the side of Frederick the Schˆne, Duke of Austria, who was
+fighting on the side of Frederick the Sch√∂ne, Duke of Austria, who was
 taken prisoner. In consequence of which the principality not only
 lost large numbers of its chief nobles and knights, but also was
 involved in heavy monetary loss in the payment of its share of a war
@@ -5731,12 +5697,12 @@ indemnity.
 Immediately following this period of unrest came another distinguished
 by the erection of new and handsome buildings and the enlargement of
 the bounds of the city, and also strengthening of the Castle on the
-Mˆnchsberg. To Archbishop Leonhard von Keutschach (1495 to 1519) must
+M√∂nchsberg. To Archbishop Leonhard von Keutschach (1495 to 1519) must
 be given the credit of attaining absolute supremacy, and with his
 occupation of the See may be said to have commenced the most
 distinguished period in the history of the city. Leonhard did not
 attain to this position, however, entirely without guile, for to tell
-the truth the Salzburg citizens, who seemed even in those mediÊval
+the truth the Salzburg citizens, who seemed even in those medi√¶val
 times to have possessed a love of freedom and spirit of independence
 which did them credit, having become restive under the ecclesiastical
 domination and tyranny wished to make the town a free imperial city.
@@ -5758,7 +5724,7 @@ agriculture.
 
 [Sidenote: THE REFORMATION]
 
-During the Archiepiscopate of his successor Math‰us Lang von
+During the Archiepiscopate of his successor Math√§us Lang von
 Wellenburg, from 1519 to 1540, many stirring events took place, not
 only in the city of Salzburg but throughout the length and breadth of
 the principality as well. The faith of Luther had been introduced into
@@ -5866,7 +5832,7 @@ workers was felt both in the city of Salzburg and the principality.
 Workshops, which had hitherto been busy hives of industry, deserted by
 their former occupants, failed to find new tenants, and fell into
 gradual decay, or were turned to other less remunerative uses. As had
-been the case with the Huguenots so was it with the _ÈmigrÈs_ of
+been the case with the Huguenots so was it with the _√©migr√©s_ of
 Salzburg; their places could not be filled nor their loss replaced.
 
 Salzburg during the wars of Frederick the Great against Bavaria and
@@ -5966,7 +5932,7 @@ succeeded them.
 [Sidenote: REBUILDING THE CITY]
 
 During the period of which we speak the character and appearance of
-the city was almost entirely changed. The ancient mediÊval buildings
+the city was almost entirely changed. The ancient medi√¶val buildings
 were pulled down, and replaced by magnificent palaces in which the
 nobility and ecclesiastical dignitaries dwelt in splendour and ease.
 Churches were erected in such numbers as to be almost unequalled in
@@ -5974,7 +5940,7 @@ any other city of similar size. Most of these still remain, making
 Salzburg a place of spires and domes and handsome churches strangely
 picturesque and deeply interesting.
 
-Seen either from the ridge of the Mˆnchsberg, the Kapuzingerberg, or
+Seen either from the ridge of the M√∂nchsberg, the Kapuzingerberg, or
 from the castle walls, especially at sundown on a summer's evening,
 Salzburg presents a picture of great beauty and colour, and one which
 is not easily forgotten.
@@ -6013,7 +5979,7 @@ In this portion of the town one finds not only some of the best
 hotels, but the Kurhaus with its pleasant gardens (closely adjoining
 the Mirabell Garden), the fine Theatre, and the imposing church of St.
 Andreas in the Gothic style. Opposite the railway station, set in a
-recess of foliage in the garden adjoining the HÙtel de l'Europe, is
+recess of foliage in the garden adjoining the H√¥tel de l'Europe, is
 the famous statue of the Kaiserin Elizabeth, a pilgrimage shrine for
 most visitors to the town. The statue itself has been described as
 "simple but beautiful." To us it has always seemed by no means an
@@ -6037,13 +6003,13 @@ profusion of flowers all the year round.
 
 The position and future prosperity of the town as a tourist resort was
 assured when Salzburg became the starting-point of a second main line
-of railway leading to Innsbruck via Kitzb¸hel, and the picturesque
+of railway leading to Innsbruck via Kitzb√ºhel, and the picturesque
 Unter-Inn Thal, and the centre of a number of branch lines.
 
 It is through these modern developments that the life of Salzburg has
 so materially changed even within the memory of those who first
 visited it but, comparatively speaking, a few years ago. From a town
-of ecclesiastical and almost mediÊval aloofness from the outside
+of ecclesiastical and almost medi√¶val aloofness from the outside
 world, and from one which had for a considerable period seen its
 growth arrested and its life stagnant, it has sprung into being as a
 favourite summer and winter resort not merely for tourists, but also
@@ -6055,7 +6021,7 @@ buildings, castle, and fine churches, proves attractive.
 The most prominent of all buildings in Salzburg, and the one which has
 for most visitors the greatest attraction, is the fine old fortress of
 Hohen-Salzburg set high above the older town upon a tree-enshrouded
-and rocky spur of the Mˆnchsberg.
+and rocky spur of the M√∂nchsberg.
 
 The ancient fortress, which has witnessed so many stirring events
 within its walls, and from which past generations of inhabitants have
@@ -6084,7 +6050,7 @@ many famous men of the past centuries have walked, it was, however,
 not merely a strong bulwark of defence, truly "ein feste burg"
 dominating the town and plain, but also a palace. Although the castle
 has been stripped of much of its magnificence there happily still
-remain traces of it in the so-called F¸rstenzimmer (state apartments),
+remain traces of it in the so-called F√ºrstenzimmer (state apartments),
 which formerly occupied by the rulers of the Province were furnished
 and decorated with all the splendour which marked the most lavish
 period of Renaissance influence. Chief amongst the relics of the
@@ -6103,7 +6069,7 @@ example of Gothic ceramic art.
 There are many interesting and quaint corners within the triple line
 of walls, which shut off access to the castle and proved so useful on
 many an occasion in former times, united with the fortifications of
-the Mˆnchsberg known as the _Burgerwehr_; but few excel in
+the M√∂nchsberg known as the _Burgerwehr_; but few excel in
 picturesqueness the old courtyard with its shady and famous Linden
 tree, ancient well, and time-worn walls. Here, as one lingers, towards
 sundown one sometimes hears the sweet-toned though halting notes of
@@ -6184,7 +6150,7 @@ foundations laid.
 To him, notwithstanding his despotic character, his restless
 disposition, his shameful intrigue with the beautiful Salome Alt, the
 city of Salzburg owes a great deal, for he did much to transform an
-unpicturesque and dirty town with narrow mediÊval streets into one of
+unpicturesque and dirty town with narrow medi√¶val streets into one of
 the finest cities of Germany. Many of the beautiful buildings,
 including the Gabriel Chapel, the Chapter House, the Neubau, and the
 arcades of the Sebastian Cemetery, owed their existence to his
@@ -6208,7 +6174,7 @@ architect named Santino Solari (possibly from plans by Scamozzi of
 Florence), assisted by others in the late Renaissance style, is one of
 the most magnificent churches in Austria, although the stucco
 ornamentation is of a rather florid character. From the exterior,
-which is rather plain and severe, although it possesses a fine faÁade
+which is rather plain and severe, although it possesses a fine fa√ßade
 built of Unterberg marble, it is impossible to gain any conception of
 the charm and even splendour of the building. But immediately upon
 entering it, one is impressed with its beautiful proportions, and the
@@ -6244,7 +6210,7 @@ erected by ecclesiastics at the time the influence of the Renaissance
 was at its height. The ceilings and wall of the principal salons and
 halls are especially notable, and in some cases are most elaborately
 decorated. The Government Offices which are opposite the Residenz
-although known as the Neugeb‰ude (possibly because they included the
+although known as the Neugeb√§ude (possibly because they included the
 Post and Telegraph office), in reality date, at any rate in part, from
 the reign of Archbishop Wolf Dietrich von Raitenau, although they have
 been modernized, altered, and added to from time to time. In the
@@ -6257,10 +6223,10 @@ The Archbishops of Salzburg were not only in past ages ecclesiastics
 and diplomatists but also sportsmen. Most, indeed, seem to have been
 great lovers of horses. Wolf Dietrich von Raitenau, Salzburg, built
 some magnificent stables adorned with marble on the slopes of the
-Mˆnchsberg; attached to them were a covered riding school for use in
+M√∂nchsberg; attached to them were a covered riding school for use in
 winter, and another open-air one for summer use. Though the stables
 themselves are now barracks, the open-air school is still one of the
-sights of the town. In the side of the Mˆnchsberg were hewn in 1693
+sights of the town. In the side of the M√∂nchsberg were hewn in 1693
 three great galleries for the accommodation of spectators of the
 sports in the summer riding school; they have long ago been overgrown
 with ivy and creepers which add greatly to their picturesqueness, but
@@ -6276,7 +6242,7 @@ for rock excavations, and the Archbishop Sigismund von Schrattenbach
 was one of the number. In the latter half of the eighteenth century,
 in 1767 to be precise, he constructed the Neuthor, a tunnel through
 the solid rock some four hundred and fifty feet in length, which it
-took two years to make. It pierced through the Mˆnchsberg and thus
+took two years to make. It pierced through the M√∂nchsberg and thus
 united the suburb of Riedenberg with the rest of the town. At the
 Riedenberg end is a statue to St. Sigismund in commemoration of the
 Archbishop, who placed his own medallion at the town end of the tunnel
@@ -6333,17 +6299,17 @@ CHAPTER VII
 
      THE ENVIRONS OF SALZBURG--HELLBRUNN, ITS UNIQUE FOUNTAINS
      AND GARDENS--THE CASTLE OF ANIF--THE GAISBERG--THE
-     KAPUZINGERBERG--THE MOZART-HƒUSCHEN--THE
-     M÷NCHSBERG--SALZBURG CHURCHES
+     KAPUZINGERBERG--THE MOZART-H√ÑUSCHEN--THE
+     M√ñNCHSBERG--SALZBURG CHURCHES
 
 
 In the neighbourhood of Salzburg there are several beautiful castles
 erected by various holders of the See. Amongst them the charmingly
-situated Leopoldskron, lying to the south of the Mˆnchsberg,
+situated Leopoldskron, lying to the south of the M√∂nchsberg,
 overlooking a lake covered in early summer with a profusion of water
 lilies and other water plants, and embracing a magnificent prospect of
 the environing mountains. The drive to Leopoldskron is one not to be
-missed. As one passes along the magnificent avenue, or _allÈe_, of
+missed. As one passes along the magnificent avenue, or _all√©e_, of
 trees, through flower-bedecked fields, and with the fresh air from off
 the river and mountains perfumed by the carpet of blossoms which lies
 stretched on either side of the road, one is able to realize to the
@@ -6415,7 +6381,7 @@ is said, five thousand jets--is the largest, and there are also the
 Rainbow, Fairy, and Orpheus grottoes, each one bringing into play some
 fresh piece of mechanical or other ingenuity.
 
-In the deer park is situated the famous Monatsschlˆsschen upon a
+In the deer park is situated the famous Monatsschl√∂sschen upon a
 wooded knoll, from which a fine view is obtainable. This building was
 erected (some say for a bet) within a month's time by Archbishop
 Marcus Sittich. There was at the time a popular belief that he was
@@ -6504,14 +6470,14 @@ paradise."
 [Sidenote: THE MOZART MEMORIAL]
 
 But to music lovers and many others who ascend the Kapuzingerberg the
-Mozart-H‰uschen, situated in a charming little garden near the
+Mozart-H√§uschen, situated in a charming little garden near the
 Monastery, will be the chief object of interest. This memorial to the
 master was presented to the city by Prince Camillo zu Starhemberg, and
 was completed in June, 1877, being thrown open to the public six weeks
 later, on July 18th, on the occasion of the first musical festival.
 This cottage, which formerly stood in the courtyard of the so-called
 old "Freihaus" in Vienna, has an added interest from the fact that in
-it was composed the opera "Die Zauberflˆte."
+it was composed the opera "Die Zauberfl√∂te."
 
 The furniture, it should be noted, is not the original but a clever
 and exact copy of the articles comprising it. The former is in the
@@ -6534,18 +6500,18 @@ could have been selected for a memorial to a musical genius of
 Mozart's nature. Far better is it, indeed, than some more pretentious
 place nearer the haunts of men.
 
-[Sidenote: ON THE M÷NCHSBERG]
+[Sidenote: ON THE M√ñNCHSBERG]
 
-The Mˆnchsberg and a walk along its ridge should not be missed by any
+The M√∂nchsberg and a walk along its ridge should not be missed by any
 one who has a little time to spare whilst at Salzburg. The explorer
 will be well rewarded for his toil. One is apt to estimate the
-Mˆnchsberg by its Hohen-Salzburg end, which so dominates the city. It
+M√∂nchsberg by its Hohen-Salzburg end, which so dominates the city. It
 is difficult, indeed, from down below in the narrow streets to believe
 that some 300 feet above one lie not only woods and tree-shaded walks,
 but even green, flower-bedecked fields. The most direct and
-interesting way up the Mˆnchsberg is by the Sigmund Haffnergasse and
+interesting way up the M√∂nchsberg is by the Sigmund Haffnergasse and
 Hofstallgasse bearing to the left of the Fischbrunnen, and thence over
-the Mˆnchsbergstiege. On reaching the top of the flight of steps the
+the M√∂nchsbergstiege. On reaching the top of the flight of steps the
 way lies in the direction of Hohen-Salzburg as far as the passage
 leading into the Nonnthal and to Leopoldskron, then one climbs to the
 left, and after a little distance reaches the beautiful view point
@@ -6554,7 +6520,7 @@ known as Konig Ludwig-Fernsicht, or King Ludvig's Lookout.
 The prospect from here is wonderfully wide and beautiful, embracing as
 it does the villas on the other side of the town, and the villages and
 farms of the valley with their picturesque background of mountain
-ranges, including nearer in the Gˆll and Untersberg.
+ranges, including nearer in the G√∂ll and Untersberg.
 
   [Illustration: HOHEN-SALZBURG AND THE NONNBERG]
 
@@ -6562,9 +6528,9 @@ To the left and on the way along the ridge to the fortress is situated
 the beautiful villa of the famous singer Bianca Bianchi, and from the
 projecting bastion in the same direction one obtains a fine view of
 the town below, and valley of the Salzach. Both in the direction of
-M¸lln to the right, and of Hohen-Salzburg to the left, there are
+M√ºlln to the right, and of Hohen-Salzburg to the left, there are
 many fine views as one takes one's way either by shaded paths or
-through the fields which lead to the B¸rgerwehrsˆller, where there is
+through the fields which lead to the B√ºrgerwehrs√∂ller, where there is
 an ancient watch-tower on the slope of the hill from whence one has a
 wonderful panoramic view of the city and its environs. From the
 opposite end of the rampart one obtains a widely extended prospect
@@ -6572,10 +6538,10 @@ towards Reichenhall, Marzoll, Maxglan, and the Bavarian plain, which
 is not easily surpassed from the neighbourhood of any other town of
 the size in western Austria.
 
-One can then either descend to the Marketenderschlˆssl through the
-beautiful woods by one of the well-kept paths, and thence reach M¸lln,
+One can then either descend to the Marketenderschl√∂ssl through the
+beautiful woods by one of the well-kept paths, and thence reach M√ºlln,
 or retrace one's steps, and walk right along to the Hohen-Salzburg end
-of the Mˆnchsberg, from whence by entering the fortress and descending
+of the M√∂nchsberg, from whence by entering the fortress and descending
 by way of the Nonnberg one obtains a fine view of the other portion of
 the Salzach valley in the direction of the Gaisberg, Hellbrunn, and
 Anif.
@@ -6599,7 +6565,7 @@ most people visit the house in which Mozart was born, situated in the
 narrow, picturesque old Getreidegasse; the Franciscan, formerly the
 Parish Church; the Church of St. Peter, with its ancient and
 picturesque burial-ground beneath the shadow of the towering fern- and
-flower-clothed Mˆnchsberg, and the Caroline Augustus Museum. There
+flower-clothed M√∂nchsberg, and the Caroline Augustus Museum. There
 are, of course, also the Dreifaltigkeits Kirche, with fine frescoes
 and carvings, and the University Church, both worth a visit.
 
@@ -6627,7 +6593,7 @@ Rauhensteingasse, Vienna, where the composer for some years lived and
 ultimately, on January 5, 1791, died. Salzburg has well-honoured her
 famous son's memory by the several memorials of him within her gates,
 including the fine though simply conceived bronze statue in the
-Mozart-Platz which cost nearly £2000, and was erected by voluntary
+Mozart-Platz which cost nearly ¬£2000, and was erected by voluntary
 subscriptions in 1842. By the foundation of the Mozarteum or "Society
 for the Cultivation of Mozart," not only is the memory of the great
 composer kept green, but the support of the School of Music of the
@@ -6669,7 +6635,7 @@ with the city's life in the past.
 The beautiful though ruinous cemetery of St. Peter, which, with its
 crumbling tombs of the great dead, interesting and quaint mural
 tablets, and arcaded vaults belonging to some of the most important
-and famous Salzburg families, lies at the foot of the Mˆnchsberg, is,
+and famous Salzburg families, lies at the foot of the M√∂nchsberg, is,
 as well as the most picturesque, the oldest cemetery in Salzburg. It
 is difficult to exaggerate the interest and charm of the spot; always
 still, although set in the midst of a city, and within a few hundred
@@ -6703,7 +6669,7 @@ one other times and other customs. Although started but three-quarters
 of a century ago the Museum has already become a repository of the
 deepest interest, much frequented by students of all types, the
 antiquarian and the man of science. It was due to the initiative of
-Vicenza Maria S¸ss, one of the leading town officials at the period of
+Vicenza Maria S√ºss, one of the leading town officials at the period of
 its foundation in 1834. The work which he began was well continued and
 supplemented by that of Jost Schiffmann, the well-known Swiss painter,
 and an enthusiastic committee, largely to whose credit must be placed
@@ -6733,7 +6699,7 @@ embroideries which came from the industrious and skilful fingers of
 past generations of women, "old" with the dignity, grace, and charm
 which the "new" woman so sadly lacks.
 
-On the same floor are the interesting MediÊval Kitchen, with its
+On the same floor are the interesting Medi√¶val Kitchen, with its
 ancient and carefully kept copper and other utensils glinting at one
 from their hooks in the half-gloom of the recesses; the Ladies'
 Chamber, with its charming oriel, stained-glass window, colour of life
@@ -6924,9 +6890,9 @@ and cosmopolitan air somewhat out of character with its general
 old-world look.
 
 Just off this interesting thoroughfare stands the Burg, or, to give it
-its fuller and ancient name, the Landesf¸rstliche Burg, in ancient
+its fuller and ancient name, the Landesf√ºrstliche Burg, in ancient
 times the town residence of the Counts of Tyrol. Retired as it is in
-the courtyard of the Magistrats Geb‰ude it is often overlooked by the
+the courtyard of the Magistrats Geb√§ude it is often overlooked by the
 passing tourist, although of great antiquarian and historical
 interest. Dating from the fifteenth century, the building has been
 admirably and sympathetically restored, and is a treasure-house of
@@ -6963,7 +6929,7 @@ pursuit of learning, the enjoyment of sport, and in the affection of
 the townsfolk.
 
 In the Burg it is possible to obtain a very good conception of what a
-mediÊval nobleman's house really was like, for not only have many
+medi√¶val nobleman's house really was like, for not only have many
 interesting specimens of furniture, presses, chairs and other fittings
 been preserved, but also household utensils, and other articles of
 common use.
@@ -6981,10 +6947,10 @@ stares one in the face in the charming Gisela Promenade with its old
 and feathery poplar trees fringing the bank of the Passer, and in
 other similar resorts, is probably a regulation distasteful to many.
 
-Of "gartens" and cafÈs there is no lack. On the left bank of the river
+Of "gartens" and caf√©s there is no lack. On the left bank of the river
 is the pleasant Maria-Valerie Garten, where--as is the case with other
-similar places--an excellent band frequently plays. Of the cafÈs at
-least the CafÈ Gilf should be visited, on account of its beautiful
+similar places--an excellent band frequently plays. Of the caf√©s at
+least the Caf√© Gilf should be visited, on account of its beautiful
 vegetation and fine view of the Passer gorge and surrounding mountain
 slopes which one obtains from the "look out."
 
@@ -7166,7 +7132,7 @@ reasonable quantity of fully ripe and freshly gathered fruit is by no
 means a disagreeable task for most people, and because it can be taken
 anywhere.
 
-In the cafÈs one sees crowds undergoing the cure; on the numerous and
+In the caf√©s one sees crowds undergoing the cure; on the numerous and
 shady seats of the Gisela Promenade one sees folks eating grapes. And
 practically in every street and alley, and along the mountain paths in
 the vicinity of Meran one meets people with brown-paper bags, or if
@@ -7243,7 +7209,7 @@ Castle Tyrol stands a relic of past glories, feats of arms, strenuous
 living, and chivalry on a rocky ridge or spur of the mountains above
 the vineyards, which climb upwards towards the white and imposing
 castle walls. Behind and above rise the pine forests running upwards
-to meet the rocky slopes of the K¸ckelberg and Vintschgau range.
+to meet the rocky slopes of the K√ºckelberg and Vintschgau range.
 The most ancient portions of the present building are some of the
 walls, a porch, and two marble doorways dating from about the twelfth
 century, and the chapel. In the latter there is a fine representation
@@ -7259,7 +7225,7 @@ and charm.
 Though we have too little space to devote to the many delightful
 places in the Meran valley which invite exploration, or to mention the
 numerous walks which tempt the pedestrian, we must give a passing word
-or two to the Ch‚teau or Castle of Schˆnna, which lies nearly two
+or two to the Ch√¢teau or Castle of Sch√∂nna, which lies nearly two
 thousand feet above sea-level like a hoary and time-worn sentinel at
 the entrance to the Passeier Valley. It is easily reached from
 Obermais by an excellent road suitable even for cyclists, and is well
@@ -7267,7 +7233,7 @@ worth a visit owing to the representative collection of old weapons
 gathered within it, and its picturesque situation. Dating from the
 early years of the twelfth century, it is an excellent example of the
 ancient feudal fortress-residence of those far-off times. A mention of
-the Ch‚teau Lebenberg, distant about an hour and a half's walk from
+the Ch√¢teau Lebenberg, distant about an hour and a half's walk from
 Meran, is justified--although it is now a pension--by reason of its
 excellent state of preservation, and the historical paintings in
 several of the most interesting rooms. The walk, too, along the side
@@ -7336,7 +7302,7 @@ whole Passeier Valley is, of course, teeming with historic memories,
 of the gallant doings of the patriot and his companions. Near Schloss
 Tyrol itself was fought one of the most notable engagements, and a
 victory won when the French, driven from their position on the
-K¸chelberg, were surrounded by the peasant forces; whilst just outside
+K√ºchelberg, were surrounded by the peasant forces; whilst just outside
 Meran another skirmish took place, as a result of which the French
 troops were forced to evacuate the town.
 
@@ -7400,7 +7366,7 @@ traceable some interesting relics of the Middle Ages.
 
 In those long back times Bozen was a place of even greater commercial
 importance than now. To its four annual markets or fairs people from
-many lands came, and it became the depÙt and centre of the great
+many lands came, and it became the dep√¥t and centre of the great
 transport trade by the two chief passes leading from Italy into Tyrol
 and thence to Germany and Austria. As was not unnatural Bozen
 merchants had a standing of their own, and were, according to one
@@ -7505,7 +7471,7 @@ occasions.
 
 The Museum, in which there are many interesting exhibits, including
 some old peasant costumes well worth the attention of artists, is an
-imposing building or "block" in the Kˆnigin Elizabethstrasse, with
+imposing building or "block" in the K√∂nigin Elizabethstrasse, with
 corner turrets and an imposing central tower.
 
 Of the more picturesque and older buildings none excels in charm the
@@ -7516,7 +7482,7 @@ the church, is a spot of sheer delight for the artist and the dreamer
 of dreams; who there, amid the quietude of ancient things, can the
 better conjure up visions of other days when Bozen streets rang to the
 passing of armies, and men at arms, and in them were heard the cries
-of mediÊval merchants selling their wares drawn from north and south.
+of medi√¶val merchants selling their wares drawn from north and south.
 In the Franciscan Church there is a fine altar, and belonging to the
 Monastery there are some beautiful cloisters. The library, too, should
 not be overlooked by those interested in early books and similar
@@ -7561,7 +7527,7 @@ in a comparatively elementary and even grotesque stage of evolution.
 The figures, which are black with a pea-green background, are, as an
 American girl said, "Noah's arkical and too funny for words," though
 we are bound to confess that the irreverence of the remark deeply
-offended a worshipper of mediÊval art who was of the party. The
+offended a worshipper of medi√¶val art who was of the party. The
 paintings in the first room depict a German version of the story of
 Tristan and Isolde, which would appear to diverge materially from the
 one of Sir Thomas Malory, as set out in the "Morte d'Arthur." The main
@@ -7578,12 +7544,12 @@ although the evidence is not absolutely conclusive. To English people
 the fine fresco of the famous Knights of the Round Table sitting in
 company with King Arthur and Queen Guinevere will naturally be of the
 greatest interest, although each of the quaint drawings to illustrate
-the mediÊval legend has an abiding fascination for all to whom the
+the medi√¶val legend has an abiding fascination for all to whom the
 past is of moment.
 
 Nor are the outside walls of this quaint pavilion left unadorned. On
 them are single figures and others in groups of two and three
-depicting well-known mediÊval personages of historical and legendary
+depicting well-known medi√¶val personages of historical and legendary
 note: Tristan and Isolde; William of Orleans and Amelie; William, Duke
 of Austria, and Aglei; pairs of lovers whose fame has outlived the
 centuries; the three hero kings of ancient Christendom, Arthur of
@@ -7689,7 +7655,7 @@ North of Bozen, prettily situated by the banks of the Adige, and some
 one thousand seven hundred feet above sea-level, stands the little,
 though somewhat important, town of Klausen, with its long, narrow
 street following the configuration of the gorge in which most of the
-houses lie, dominated by the great Benedictine monastery of S‰ben
+houses lie, dominated by the great Benedictine monastery of S√§ben
 perched upon a steep vine-clad promontory overlooking the town and
 river, and six hundred feet above it. A castle till the end of the
 seventeenth century, the convent was attacked by the French in 1809,
@@ -7723,7 +7689,7 @@ perched high above the pine forest which clothes the steep sides of
 the rocky spur upon which it stands, and with a patch of vineyard
 clinging to the wall of its upper square and solid-looking keep. The
 climb up to it is a steep one, but the view one obtains into the
-Grˆdener Thal and of the surrounding heights well repays one.
+Gr√∂dener Thal and of the surrounding heights well repays one.
 
 [Sidenote: OSWALD v. WOLKENSTEIN]
 
@@ -7876,7 +7842,7 @@ adventurous and knightly doings.
 [Sidenote: ST. ULRICH]
 
 On the way to Klausen one is wise to make a diversion down the narrow
-but picturesque Grˆdener Thal to St. Ulrich, which charming village,
+but picturesque Gr√∂dener Thal to St. Ulrich, which charming village,
 situated in a basin and almost surrounded by thickly wooded slopes,
 and beyond them stupendous and rocky peaks with the serrated pinnacles
 of the Langkofel in the background, is the centre of the Toy industry
@@ -7926,7 +7892,7 @@ commencement of the seventeenth century, and there are some figures of
 the Virgin and Saints still extant in churches of the district bearing
 dates of that period, and other images of apparently much earlier
 date, which show that even in those remote times the carvers of St.
-Ulrich and the Grˆdener Thal possessed considerable skill and
+Ulrich and the Gr√∂dener Thal possessed considerable skill and
 reputation. It was, however, one Johann von Metz who at the
 commencement of the eighteenth century appears to not only have raised
 the standard of the work of carving to greater perfection, but also to
@@ -7936,9 +7902,9 @@ In the years which immediately followed, the peasants were in the
 habit of themselves setting out into other lands with stocks of their
 work for sale; and some at least, according to tradition, found their
 way to England, and even across the Atlantic, where they abandoned the
-active work of carving for that of establishing trading depÙts in
+active work of carving for that of establishing trading dep√¥ts in
 connection with St. Ulrich, and thus they distributed the work done in
-the far-off and almost then unknown Grˆdener Thal throughout the
+the far-off and almost then unknown Gr√∂dener Thal throughout the
 commercial world.
 
 Nowadays to sally forth with their stock-in-trade on their backs or in
@@ -7949,7 +7915,7 @@ villages of the valley are employed in the carving industry; St.
 Christina, for example, making a speciality of "lay figures" and hobby
 horses.
 
-Not only are most of the men of the villages in the Grˆdener Thal thus
+Not only are most of the men of the villages in the Gr√∂dener Thal thus
 employed, but also many of the women and children. And it is no
 uncommon sight to see quite mites cutting away at blocks of the softer
 kinds of wood by the roadside or on the doorsteps of the cottages; and
@@ -7981,7 +7947,7 @@ white chalets on the mountain side that the toys and smaller articles
 are made.
 
 The goods are stored principally in the larger houses of the villages.
-One of the chief depÙts bears the name of the man who developed the
+One of the chief dep√¥ts bears the name of the man who developed the
 industry, whilst other well-known merchants are Insam, Purger, and
 Prinoth. In these warehouses one sees shelf upon shelf laden with
 toys, figures, dolls, and other carved work; miniature waggons,
@@ -8029,7 +7995,7 @@ Deschwanden.
 
 [Sidenote: CONCERNING DIALECT]
 
-There is a distinct dialect in the villages of the Grˆdener Thal,
+There is a distinct dialect in the villages of the Gr√∂dener Thal,
 locally known as Ladin, which is said by philologists to be directly
 derived from the Latin tongue, and to date from the days of the Roman
 occupation. It is certainly so different from the dialects of modern
@@ -8041,7 +8007,7 @@ qualifications. Although a deeply interesting one to philologists, it
 is impossible to deal with the question at all fully here. Certainly
 one would be inclined to think that this peculiar dialect has an
 Etruscan origin, for it is well-known that considerable remains of
-that people have from time to time been unearthed in the Grˆdener
+that people have from time to time been unearthed in the Gr√∂dener
 Thal, and, indeed, in the immediate neighbourhood of St. Ulrich
 itself.
 
@@ -8056,7 +8022,7 @@ are many grateful excursions for the high-flying parties, and swift
 ski-ing." By "high-flying parties" one should doubtless understand
 those who wish to ascend the higher slopes.
 
-Costume still survives at St. Ulrich and in the Grˆdener Thal, where
+Costume still survives at St. Ulrich and in the Gr√∂dener Thal, where
 (although less worn than even a decade ago) one still meets with women
 wearing the old style dress, with huge broad-brimmed felt hats trimmed
 with wide ribbons, and having short "streamers" down behind, or the
@@ -8074,7 +8040,7 @@ amid green fields, and pastures, and afforested slopes. The twin
 towers of the Cathedral in the centre of the picture at once catches
 the eye from whatever point one approaches the town.
 
-  [Illustration: SUMMER TIME NEAR ST. ULRICH, GR÷DENER THAL]
+  [Illustration: SUMMER TIME NEAR ST. ULRICH, GR√ñDENER THAL]
 
 Brixen, though little more in size and population than a large
 village, is yet one of the most interesting places in Southern Tyrol.
@@ -8205,7 +8171,7 @@ seen in Tyrol in any private house of similar size.
 The church has been extensively, but on the whole well restored. It
 dates from the sixteenth century, and has a Gothic choir of note, and
 nave and aisles restored in the Rococo style, the ceiling paintings of
-which are by Adam Mˆlckh. The general effect of the interior is good,
+which are by Adam M√∂lckh. The general effect of the interior is good,
 and the church has some interesting architectural details.
 
 The decline of Sterzing is attributable to the same cause as that of
@@ -8277,7 +8243,7 @@ have been founded by the Etruscans, and both Pliny and Ptolemy make
 mention of it; but whoever designed Trent seized upon a beautiful
 situation, and the builders have left behind them in the quaint town,
 broad streets, handsome palaces of dead and gone nobles, and a forest
-of towers and spires, delightful survivals of mediÊval days.
+of towers and spires, delightful survivals of medi√¶val days.
 Surrounded by limestone crags, the city itself, notwithstanding its
 Italian character and fine atmosphere, gives one at first sight an
 impression of lack of colour which is not usually the case with
@@ -8308,7 +8274,7 @@ this month is charming by reason of the beauties of nature, the wealth
 of tender new foliage and delightful climate, but also because on the
 26th of the month falls the Festival of Saint Vigilius, the patron
 saint of Trent, and the martyr missionary who anciently did much to
-Christianize the country. At this _fÍte_ the ancient city, whose
+Christianize the country. At this _f√™te_ the ancient city, whose
 by-ways and narrower streets are full of interest, picturesqueness,
 and charm, is seen at its gayest and best. All the many churches are
 crowded with worshippers, thousands of whom have flocked down from the
@@ -8633,7 +8599,7 @@ maid should marry a Tyrolese man. It was in pursuance of this idea,
 when at last her lover pressed her strongly for an answer, that she
 told him she would never marry a man who lived so far away from her
 beloved home, and that she wondered how any one who did not possess a
-tiny _pied ‡ terre_ in Trent, should for a moment think that he could
+tiny _pied √† terre_ in Trent, should for a moment think that he could
 have any claim upon her affections. This reply to his suit might, one
 would think, have discouraged most people, but George Fugger, who
 possessed vast wealth, had no intention of yielding up his claim, or
@@ -8828,7 +8794,7 @@ There is a legend that a beautiful city, once known as San Marco,
 which was destroyed by a landslip that took place at the beginning of
 the ninth century, lies buried under the gigantic rocks. At any rate,
 in the Middle Ages this belief prevailed, with the result that the
-peasants of the district were for ever digging amidst the _dÈbris_ in
+peasants of the district were for ever digging amidst the _d√©bris_ in
 the hope of finding some of the vast treasure which tradition said had
 been buried with the city. The story, which possesses an almost
 Boccaccian touch of humour, goes on to say that on one occasion a
@@ -8908,7 +8874,7 @@ dominated by the large and ancient castle situated on a pine-clad rock
 high above the town. This castle was bombarded by the French, and
 destroyed during the War of the Spanish Succession in 1703. The
 church, a prominent object of the pretty town, is of considerable
-interest, and amongst other places worthy of note is the ch‚teau of
+interest, and amongst other places worthy of note is the ch√¢teau of
 the late Archduke Albert, which has a remarkably fine winter garden.
 Arco has of recent years gained some note as a health resort for
 invalids with a consumptive tendency and, in consequence, possesses
@@ -9023,7 +8989,7 @@ In the Dolomite region, though its popularity is yearly increasing,
 one can yet happily meet with comfortable hotels, which are not
 overrun by the type of tourist for whom a good dinner is more than
 fresh air and scenery, and dress clothes and gorgeous costumes of an
-evening a _sine qu‚ non_. In a word, we have found that the Dolomite
+evening a _sine qu√¢ non_. In a word, we have found that the Dolomite
 region is free from many of the disadvantages of Switzerland--that
 most exploited of European countries, and the one in which nowadays
 perhaps the least quietude and rest is to be found--and provides a
@@ -9042,7 +9008,7 @@ It may be added that French is of little use in the Dolomites, except
 in the hotels at the most frequented tourist resorts, such as Toblach,
 Cortina, Karer See, Bozen, etc., Italian and German being generally
 spoken--the former almost everywhere in the region; the latter chiefly
-in the Gader Thal, Grˆdener Thal, and the district north of the
+in the Gader Thal, Gr√∂dener Thal, and the district north of the
 Ampezzo Thal; although in scattered hamlets south of the latter, here
 and there one finds peasants speaking both.
 
@@ -9138,7 +9104,7 @@ In this comparatively small area one has a variety of scenery
 unsurpassed by any, so far as we know, on the Continent of Europe.
 Within the confines of the Dolomite region one has the wide range of
 lofty mountains and terrific cliffs, in places reminding the traveller
-of the caÒons of the Rocky Mountains, with pinnacles, battlements, and
+of the ca√±ons of the Rocky Mountains, with pinnacles, battlements, and
 towers, rearing themselves on every hand like ruined and Titanic
 fortresses, yet with their wildness softened in a measure by their
 beauty of colour when gilded by the sunrise or bathed in roseate hue
@@ -9249,20 +9215,20 @@ The Dolomites may be divided into the following groups, running from
 east to west.[20] (1) The Sextner Dolomites, the most important
 summits amongst which are the Drei Schuster Spitz, 10,375 feet, which
 is ascended generally from the Fischelein Boden; the Elferkofel,
-10,220 feet; the Zwˆlferkofel, 10,150 feet; Oberbacher Spitz, 8700
+10,220 feet; the Zw√∂lferkofel, 10,150 feet; Oberbacher Spitz, 8700
 feet, and the Drei Zinnen, 7897 feet, two absolutely bare peaks of
 sulphurous limestone, streaked with pale orange, rising grandly and
 boldly from behind the Monte Piana plateau like two huge scored and
 fissured fingers of a Titanic hand. (2) The Ampezzaner Dolomites,
 with Monte Cristallo, 10,495 feet, with its many peaks veiled by
 snows, glassing itself in the agate green waters of the lovely
-pine-environed D¸rren See. Monte Antelao, 10,710 feet; the three
+pine-environed D√ºrren See. Monte Antelao, 10,710 feet; the three
 Tofanas, ranging in height from 8565 feet to 10,635 feet; and the
 Sorapis, 10,520 feet. (3) The Agordinischen Dolomites, with the
 Nuvolau, 8685 feet; Monte Pelmo, 10,395 feet; and Monte Civetta,
 10,565 feet, whose western face from Caprile was unascended till as
 recently as 1895, when Messrs. Raynor and Phillimore, with two Ampezzo
-guides, made the ascent. (4) The Grˆdener Dolomites, which embrace the
+guides, made the ascent. (4) The Gr√∂dener Dolomites, which embrace the
 beautiful Rosengarten, the Schlern, 8415 feet; the Sella-group,
 including the Sellajoch, 7275 feet; Rodella, 8155 feet, and other
 lesser peaks; and the Geislerspitzen, with its highest peak, Sas
@@ -9300,10 +9266,10 @@ surrounded by exquisite scenery. From Sexten one reaches in about an
 hour Fischlein Boden, by way of Moos, along a beautiful path through
 the pine woods, from whence one obtains an admirable view of the head
 of the valley, with the Drei Schuster Spitze, the Oberbacher Spitze,
-Drei Zinnen, Elferkofel, Zwˆlferkofel, and Rothwand, and an almost
+Drei Zinnen, Elferkofel, Zw√∂lferkofel, and Rothwand, and an almost
 unrivalled vista of snow peaks. From this point, passing the Zsigmondy
 Hut, 7320 feet, one comes to the Bacherjoch. From the Zsigmondy Hut,
-the Elferkofel and the Zwˆlferkofel may be ascended, both of which
+the Elferkofel and the Zw√∂lferkofel may be ascended, both of which
 are, however, very difficult. Over the Bacherjoch a footpath leads to
 the Drei Zinnen Hut on the Toblinger Riedel, 7895 feet, on past the
 celebrated Drei Zinnen to the pretty Misurina Lake, tree-bordered and
@@ -9337,10 +9303,10 @@ slatey blues of twilight.
 From Toblach the ascent is very gradual to the pretty and romantically
 situated Toblach Lake; and thence one passes on to Landro at the head
 of the valley of the Schwarze Rienz, where rise the lofty and
-snow-clad Drei Zinnen with the waters of the D¸rren See, jade green
+snow-clad Drei Zinnen with the waters of the D√ºrren See, jade green
 and beautiful in colour, with Monte Cristallo with its cap of eternal
 snow and its glacier, the Piz Popena and Monte Cristallino, rising in
-the background. From the D¸rren See to Schluderbach, 4730 feet, is a
+the background. From the D√ºrren See to Schluderbach, 4730 feet, is a
 distance of less than two miles; and here, too, one finds a
 beautifully situated village surrounded by fine scenery, and provided
 with excellent accommodation for tourists whether they be but passing
@@ -9465,13 +9431,13 @@ easily accomplished, none who have taken the road by way of Misurina
 will regret its greater length because of its greater interest.
 
 
-SCHLUDERBACH--PLƒTZ WIESE--PRAGSER WILDSEE--NIEDERDORF
+SCHLUDERBACH--PL√ÑTZ WIESE--PRAGSER WILDSEE--NIEDERDORF
 
 From Schluderbach, too, there is another road branching northward from
 the Imperial Road to Niederdorf on the Bruneck-Innichen-Toblach line,
-leading over the Pl‰tz Wiese, upwards of 6500 feet above sea-level.
-There is a fine hotel on the Pl‰tz Wiese, about two hours from
-Schluderbach, and it is from thence that one ascends the D¸rrenstein,
+leading over the Pl√§tz Wiese, upwards of 6500 feet above sea-level.
+There is a fine hotel on the Pl√§tz Wiese, about two hours from
+Schluderbach, and it is from thence that one ascends the D√ºrrenstein,
 9320 feet. This easily climbed mountain, although not providing much
 excitement for the expert Alpinist, is one of those which amply reward
 the climber for the fatigue and trouble of the ascent. As one stands
@@ -9486,7 +9452,7 @@ glacier, and many other giants of the region.
 
 [Sidenote: PRAGSER WILDSEE]
 
-The road from Pl‰tz Wiese continues past the little watering-place
+The road from Pl√§tz Wiese continues past the little watering-place
 Alt-Prags to Niederdorf, to reach which occupies about three and a
 half hours. There is from this road another, branching off and leading
 past the watering-place of Neu-Prags, with its prettily situated
@@ -9560,7 +9526,7 @@ holiday makers.
 
   [Illustration: A PEEP OF THE DOLOMITES]
 
-BUCHENSTEIN--CAPRILE--ALLEGHE SEE--AR¡BA.
+BUCHENSTEIN--CAPRILE--ALLEGHE SEE--AR√ÅBA.
 
 Near it a little road branches off to the south-east, which, leading
 through Italian territory and crossing a stream, leads to Caprile,
@@ -9577,13 +9543,13 @@ beautiful Alleghe Lake, tempt one to prolong one's stay.
 
 From Caprile the road leads to the Lake, which lies at the foot of
 Monte Civetta. The high road, however, which is fairly level, leads
-first of all to the village of Ar·ba at the foot of the Pordoijoch,
+first of all to the village of Ar√°ba at the foot of the Pordoijoch,
 7355 feet.
 
 
-BRUNECK--ENNEBERG--AR¡BA.
+BRUNECK--ENNEBERG--AR√ÅBA.
 
-On the way to Ar·ba one can also reach, direct from the Puster Thal
+On the way to Ar√°ba one can also reach, direct from the Puster Thal
 station, St. Lorenzen, through the wildly beautiful and romantic
 Enneberg Thal, which forms the shortest route to the middle division
 of the great Dolomite road. One peculiarity of the Gader or Enneberg
@@ -9598,23 +9564,23 @@ Italian.
 
 The carriage-road, which is 45 kilometres (28 miles) in length, is not
 suitable for motors; it leads past Pedrazes, 4350 feet high, and
-Corvara, 5110 feet, to Ar·ba. Near Corvara lies the way over the
-Grˆdener-Joch, 7010 feet, into the beautiful Grˆdener Thal, often sung
+Corvara, 5110 feet, to Ar√°ba. Near Corvara lies the way over the
+Gr√∂dener-Joch, 7010 feet, into the beautiful Gr√∂dener Thal, often sung
 by the poet Walther von der Vogelweide.
 
 
-WAIDBRUCK--GR÷DENER THAL--AR¡BA.
+WAIDBRUCK--GR√ñDENER THAL--AR√ÅBA.
 
 The usual starting-point, however, for the latter is Waidbruck, to the
 south of the Brenner road between Franzenfeste and Bozen. From
-Waidbruck, 1545 feet, which lies at the head of the Grˆdener Thal,
+Waidbruck, 1545 feet, which lies at the head of the Gr√∂dener Thal,
 with the Trostburg, 2040 feet, towering above it, the road goes to St.
 Ulrich, 4055 feet, distant eight miles, the chief village in the wide
 valley, prettily situated and surrounded by tree-clad slopes, beyond
 which rise some magnificent rocky Dolomite peaks. The church, dating
 from the end of the eighteenth century, has a beautiful interior,
 containing some excellent examples of the woodcarving for which the
-Grˆdener Thal has for ages been and still is famous.
+Gr√∂dener Thal has for ages been and still is famous.
 
   [Illustration: THE LANGKOFEL]
 
@@ -9624,35 +9590,35 @@ From St. Ulrich it climbs upwards through the valley, which at each
 step becomes more beautiful and more magnificent, to St. Christina,
 4685 feet, with its mountain pastures dominated by the huge
 Langkofel-Joch, 8800 feet, and many other impressive heights, such as
-SecÈda, 8270 feet, Geislerspitzen, 9930 feet, to the north, and the
+Sec√©da, 8270 feet, Geislerspitzen, 9930 feet, to the north, and the
 Plattkofel, 9740 feet, to the south; the Stella Group to the
-south-east, with the Col dalla PiÎres, 9055 feet; and the Pitzberg,
+south-east, with the Col dalla Pi√´res, 9055 feet; and the Pitzberg,
 6020 feet, Puflatsch, 7140 feet, and the more distant Rosengarten and
 the Schlern to the south-west.
 
 From St. Christina the road continues over the hill to St. Maria in
 Wolkenstein, to Plan, 5290 feet; from whence mule tracks lead over the
-magnificent Grˆdener-Joch, with its protection hut, or hospice, 7010
-feet, into the Enneberg Valley to Ar·ba; and also over the great
+magnificent Gr√∂dener-Joch, with its protection hut, or hospice, 7010
+feet, into the Enneberg Valley to Ar√°ba; and also over the great
 Sella-Joch, 7275 feet, to Canazei, in the Fassa Valley, which lies
 southward of Pordoi. There are several excellent and interesting
-ascents which can be made from the Grˆdener Valley. First of all there
+ascents which can be made from the Gr√∂dener Valley. First of all there
 is the romantic Geislerspitzen, which, however, should only be
 attempted by the skilled climber, as it is both a laborious and
 difficult ascent. In the same category, though more difficult, and
 suitable only for hardy mountaineers, are the Grosse Furchetta, with
 its highest point 9930 feet; Kleine Furchetta, a few feet less; the
 Fermeda-Thurm, 9440 feet; and the Gross Nadel, 9250 feet. Starting
-from the Sella-Joch, the magnificent Sella, with the BoË Spitz, 10,340
+from the Sella-Joch, the magnificent Sella, with the Bo√® Spitz, 10,340
 feet, as well as the wildly rugged Langkofel, can be ascended. From
 the Sella-Joch also one can easily ascend the Col Rodella, 8155 feet,
 which lies to the south-west of the former, from which summit one
 obtains a very fine and extensive panoramic view.
 
 
-AR¡BA--PORDOI--CANAZEI.
+AR√ÅBA--PORDOI--CANAZEI.
 
-In Ar·ba, the second part of the new Dolomite high road, which comes
+In Ar√°ba, the second part of the new Dolomite high road, which comes
 over the Pordoi-Joch to Canazei, in the Fassa Thal, the way ascends in
 wide zig-zags through a beautiful and broad Alpine valley, in which
 those interested in botany will find a wealth of Alpine flora scarcely
@@ -9660,7 +9626,7 @@ excelled by that of any portion of Tyrol, up to the heights of the
 Pordoi-Joch, where there is an inn at which meals can be obtained, and
 from which a most magnificent circular panoramic view extends. From
 this place well-made tourist paths extend in many directions to the
-BoË-Spitz as well as to the Fedaja Pass, 6710 feet, and the frontier
+Bo√®-Spitz as well as to the Fedaja Pass, 6710 feet, and the frontier
 between Tyrol and Italy; a most attractive road, with the huge snow
 peaks and glaciers of the giant Marmolada close at hand.
 
@@ -9672,14 +9638,14 @@ to Canazei in the curve of the Fassa Thal.
 
 CANAZEI--FASSA THAL--NEUMARKT--TRAMIN.
 
-This little town, 4790 feet, distant from Ar·ba just over twelve
+This little town, 4790 feet, distant from Ar√°ba just over twelve
 miles, is charmingly situated, and much resorted to by tourists as a
 centre from which to make numerous interesting short tours in the
 Dolomites. The inns are simple in character though comfortable, and
 for that reason many will find that they possess an attractiveness
 exceeding that which one finds in hotels of a more pretentious class.
 The high road leads near Canazei, past Gries, Campitello, Vigo, and
-Mˆena, to Predazzo, the chief town in the Fassa Thal, 3340 feet, about
+M√∂ena, to Predazzo, the chief town in the Fassa Thal, 3340 feet, about
 nineteen miles from Canazei.
 
 The place occupies, so we are told by Baron Richthofen and other
@@ -9739,7 +9705,7 @@ whom made it does not appear absolutely certain.
 
 The road leads on through the Fleimse-Thal, past Cavalese, where there
 is an ancient palace of the Bishops of Trent, which has a painted
-faÁade. The building is now used as a jail. There is here a fine
+fa√ßade. The building is now used as a jail. There is here a fine
 Gothic parish church, standing on a hill, with an old marble entrance
 porch, and some interesting pictures by native artists. The road then
 leads one on to the railway station at Neumarkt-Tramin, which is
@@ -9775,7 +9741,7 @@ expert climbers can take is that from Karer See, by the Rosengarten,
 past the Ostertag and Ciampedie hut, 6530 feet, to the Vajolet hut; or
 past the Kolner hut, 7630 feet, over the Tschager-Joch, to the Vajolet
 hut, 7430 feet. Starting from the Vajolet hut, one can ascend the
-Vajolet Th¸rme through a ravine filled with _dÈbris_ and a steep slope
+Vajolet Th√ºrme through a ravine filled with _d√©bris_ and a steep slope
 usually covered with snow; the Rosengarten Spitz, 9780 feet, and the
 Kesselkogel, 9845 feet; Cima di Laura, 9440 feet, and several others.
 All of those mentioned are difficult ascents, and should only be
@@ -9786,7 +9752,7 @@ Grasleiten Pass, 7100 feet, to the hut which occupies a magnificent
 position with an extensive view of the giant Dolomites in the
 immediate vicinity, and towards the west a fine prospect of the
 Presanella and Ortler Group. From this point the path leads through
-the B‰renschlucht up the Schlern.
+the B√§renschlucht up the Schlern.
 
 
 WAIDBRUCK--SEIS-SCHLERN.
@@ -9808,7 +9774,7 @@ The starting-place for the ascent of the Schlern is usually Waidbruck,
 already referred to, and from thence a carriage-road leads by way of
 Kastelruth and the charmingly situated summer resort Seis, 3285 feet,
 to Bad Ratzes, 3950 feet, situated in the wild but well-wooded gorge
-of the Frˆtschbach. Between Seis and Bad Ratzes, set in the forest,
+of the Fr√∂tschbach. Between Seis and Bad Ratzes, set in the forest,
 are the ruins of the ancient home of the Minnesinger Oswald von
 Wolkenstein. From Bad Ratzes the peaks of the Schlern can be easily
 reached by a mule track, although serious climbers generally take up
@@ -9825,7 +9791,7 @@ and picturesque Tierser Thal. The carriage-road from Blumau takes one
 through pretty scenery in about two and a half hours to the little
 village of Tiers, and then on to Weisslahn-Bad, 3818 feet, from whence
 tourists' paths have been made leading up the Schlern to the
-Grasleiten hut, and over the Niger to the Kˆlner hut, from which one
+Grasleiten hut, and over the Niger to the K√∂lner hut, from which one
 can then either ascend the Rosengarten, or proceed through beautiful
 flower-bedecked Alpine meadows to the charming Karer See.
 
@@ -9851,7 +9817,7 @@ and then over Primero, 2350 feet, on one side towards Venice, and the
 other towards Trent. This fine high road threads its way through a
 splendid forest to Paneveggio, 5055 feet, a pleasantly situated
 village--set amid pine woods--from which one can return over the Lusia
-Pass, 6745 feet, to Mˆena, and ultimately to Karer See, with
+Pass, 6745 feet, to M√∂ena, and ultimately to Karer See, with
 magnificent views of the Colbricon, the Cimon della Pala, and the Oetz
 Thal Alps in the background. From Paneveggio, too, the road climbs up
 the Rolle Pass, which forms the watershed between the Adige and
@@ -9920,7 +9886,7 @@ little town, is almost bound to evoke the remark that it is a Salzburg
 in miniature. Indeed, the parallel is not an inapt one, for the
 partially tree-clad and rocky eminence on which the last stronghold
 held by the Bavarians at the end of the invasion of 1809 stands bears
-considerable resemblance to the greater Mˆnchsberg with the town
+considerable resemblance to the greater M√∂nchsberg with the town
 spread out at its feet.
 
 The river Inn has narrowed ere it reaches Kufstein, which may be
@@ -9945,7 +9911,7 @@ into a political shuttlecock, now taken by force of arms, then by
 stealthy surprise, now mortgaged, then redeemed or exchanged for some
 other possessions by its whilom owners."[21] And its general fate and
 varying fortunes were similar to those of other frontier fortresses,
-such as Kitzb¸hel during the Middle Ages.
+such as Kitzb√ºhel during the Middle Ages.
 
 The grim fortress upon the rock, somehow or other, when seen in the
 fading light of evening, seems to bear its story of cruelty, rapine
@@ -9959,7 +9925,7 @@ The history of the fortress, so far as it concerns us, may commence
 with its cession to Bavaria in or about 1363 by the Duchess Margaret,
 the last of Count Albert's successors as rulers of Tyrol, when she
 found herself unable to govern the country. She had acquired the
-estates of Kufstein, Rattenberg, and Kitzb¸hel on her marriage with
+estates of Kufstein, Rattenberg, and Kitzb√ºhel on her marriage with
 Louis of Brandenburg; and when she ceded Tyrol to Austria it was
 stipulated that these properties should revert to Bavaria.
 
@@ -9971,7 +9937,7 @@ however, refused to yield, and so in 1504 Maximilian appeared before
 it, and commenced a siege. This event is particularly interesting, as
 some authorities state it constituted the first occasion on which
 proof was given that the introduction of artillery meant the
-death-knell of mediÊval fortresses, however strong and hitherto
+death-knell of medi√¶val fortresses, however strong and hitherto
 regarded as inaccessible they might be. We are told, however, that the
 guns brought to bear upon the Castle by the Emperor in the first
 instance were quite ineffective, so much so, indeed, that the
@@ -10099,7 +10065,7 @@ destruction. The story goes on to say that they both escaped, and that
 the knight eventually married (and, let us hope, lived happily with)
 the brave girl who had compassed his deliverance.
 
-  [Illustration: A PEEP OF KITZB‹HEL]
+  [Illustration: A PEEP OF KITZB√úHEL]
 
 The town of Kufstein itself does not call for extended description.
 But one feature that immediately prepossesses the visitor in its
@@ -10110,15 +10076,15 @@ picturesque Kiengraben. None should fail to visit the Calvarienberg,
 from which there are delightful and extensive views of the Castle,
 town, and valley.
 
-[Sidenote: KUFSTEIN TO KITZB‹HEL]
+[Sidenote: KUFSTEIN TO KITZB√úHEL]
 
-To reach Kitzb¸hel from Kufstein it is necessary to change trains at
-Wˆrgl, eight and a half miles down the Unter-Innthal, and proceed up
-the Brixen Thal by the Staatsbahn past Hopfgarten to Kitzb¸hel. The
+To reach Kitzb√ºhel from Kufstein it is necessary to change trains at
+W√∂rgl, eight and a half miles down the Unter-Innthal, and proceed up
+the Brixen Thal by the Staatsbahn past Hopfgarten to Kitzb√ºhel. The
 town is a charming one, surrounded by gardens where once there ran a
 moat, and containing some interesting houses along the banks of the
-Kitzb¸hler Ache. Many of them still have Gothic roofs and gables,
-which give them a mediÊval appearance, and one of great charm. The
+Kitzb√ºhler Ache. Many of them still have Gothic roofs and gables,
+which give them a medi√¶val appearance, and one of great charm. The
 town has of late years become a favourite summer resort, and its fine
 situation in a wide valley nearly 2500 feet above sea-level has much
 to recommend it. But its fame is by no means merely that of a summer
@@ -10126,13 +10092,13 @@ holiday spot. It is almost equally resorted to for winter sports of
 tobogganing, ski-ing, and skating, and may be, in fact, called the
 Tyrolese Grindelwald or Adelboden. Then the snow-clad valley is indeed
 beautiful, more like fairyland than aught else, with only the church
-spires of Kitzb¸hel and the pines on the hillsides to break the wide
+spires of Kitzb√ºhel and the pines on the hillsides to break the wide
 white expanse.
 
-The Kitzb¸helhorn is a favourite ascent, from which very fine views
+The Kitzb√ºhelhorn is a favourite ascent, from which very fine views
 are to be obtained, especially of the giants of the Tauern range, the
 Chiemsee, and the rocky and impressive Kaiser Gebirge. The pasturage
-and the Alpine flora in the neighbourhood of Kitzb¸hel are especially
+and the Alpine flora in the neighbourhood of Kitzb√ºhel are especially
 rich, and there are many beautiful excursions to be made in the
 district round about. In the Brixen Thal, indeed, the artist and the
 student of costumes and ancient customs, which are, alas! so rapidly
@@ -10140,8 +10106,8 @@ dying out, will find much of interest. In many of the villages the
 annual contests, consisting of wrestling and other sports--which
 anciently were often so strenuous as to lead to serious injury to the
 combatants and competitors, and even bloodshed--still take place. At
-Kitzb¸hel there is an athletic gathering in June, which is held on a
-plateau near the inn on the Kitzb¸helhorn, and partakes of the
+Kitzb√ºhel there is an athletic gathering in June, which is held on a
+plateau near the inn on the Kitzb√ºhelhorn, and partakes of the
 character of the Grasmere Sports of our own land, and the Braemar
 gathering in Scotland.
 
@@ -10170,7 +10136,7 @@ of the greatest beauty and of ever changing interest.
 
 [Sidenote: MONKISH MIRACLES]
 
-Kundl is a small village some four miles south-west from Wˆrgl, and it
+Kundl is a small village some four miles south-west from W√∂rgl, and it
 would attract little attention from travellers were it not for the
 curious church of St. Leonard auf der Wiese (St. Leonard in the
 Meadow) and the quaint legend attached to it. The story goes that
@@ -10367,7 +10333,7 @@ these simpler peasant dramatic plays.
 Just after leaving Brixlegg, on the left-hand side of the road stand
 three castles of note--Matzen, Lichtwer, and Kropfsberg. The first
 named is one of the most interesting and well-preserved examples of
-the mediÊval schloss in Tyrol. A whole volume might be devoted to a
+the medi√¶val schloss in Tyrol. A whole volume might be devoted to a
 description of its beauty of situation, architecture, romantic history
 and sieges, and yet leave much unsaid. Its huge round tower dominates
 the landscape, just as its beautiful lower courtyard, with its four
@@ -10461,7 +10427,7 @@ the chalice and fell upon the wafers. Some portion of this miraculous
 blood was preserved in a phial, which was set in a reliquary and
 placed upon the altar. In former times this precious relic, we are
 told, has worked many miracles, and is venerated almost as much to-day
-as in mediÊval times.
+as in medi√¶val times.
 
 [Sidenote: A WOODLAND SHRINE]
 
@@ -10548,7 +10514,7 @@ the eighteenth century--after having been established at St.
 Georgenberg for more than five hundred years--it was decided to remove
 the monastic institutions to Fiecht.
 
-Vast funds were needed, for the then abbot, named Celestin Bˆhmen, who
+Vast funds were needed, for the then abbot, named Celestin B√∂hmen, who
 was a native of Vienna, and had formerly been an officer of artillery,
 projected the new monastery and buildings upon a lavish and colossal
 scale. There was, however, no lack of funds. St. Georgenberg held a
@@ -10565,7 +10531,7 @@ sufficient sum of money was obtained to permit of the work being
 continued under the direction of Abbot Lambert. The result was the
 present handsome late Renaissance building; which, however, comprises
 but a small portion of the first magnificent scheme. The renegade
-Abbot, Celestin Bˆhmen, some years after his flight and crime, once
+Abbot, Celestin B√∂hmen, some years after his flight and crime, once
 more became enamoured of a life of contemplation, and suddenly
 appeared at the monastery, confessing his wrong-doing and throwing
 himself upon the mercy of his former companions. He did not appeal to
@@ -10598,9 +10564,9 @@ castles in the Inn Thal. Not the least interesting of the many finely
 decorated rooms which it contains are those which were generally
 occupied by Maximilian on his visits, and the fine apartment known as
 the Queen's room, with beautiful presses, interesting portraits, and
-magnificent panelled ceiling. The armoury, too, full of mediÊval
+magnificent panelled ceiling. The armoury, too, full of medi√¶val
 cannon, pikes, lances and other ancient weapons, never fails to
-interest the student and archÊologist, who, whilst wandering through
+interest the student and arch√¶ologist, who, whilst wandering through
 these ancient and wonderfully well-preserved rooms, gains a more vivid
 idea of the conditions of life in the Middle Ages than much "book
 learning" could give him. In the great hall are some remarkable
@@ -10664,7 +10630,7 @@ There are many other traditions and legends attached to this famous
 castle, which is one of the several buildings in Europe making a claim
 to possess exactly as many windows as there are days in the year; but
 for these stories, interesting though they are as exhibiting the
-credulity, barbarism, and imaginativeness of mediÊval times, we have
+credulity, barbarism, and imaginativeness of medi√¶val times, we have
 not space.
 
 Not far from Tratzberg is the quaint, interesting, and flourishing
@@ -10749,7 +10715,7 @@ One story, that was very generally accepted as a miracle by the
 Catholic population, concerning these disputes, which sometimes were
 not confined to words and arguments alone, is as follows. A leader
 amongst the reformers is stated to have exclaimed during a heated
-discussion, "If Pastor Sˆll (one of the priests who had accepted
+discussion, "If Pastor S√∂ll (one of the priests who had accepted
 Luther's doctrines) does not preach the true doctrine, may the Devil
 carry me up into the Steinjoch." Hardly, we are told, were the words
 out of his mouth when the speaker vanished.
@@ -10759,7 +10725,7 @@ from this incident, and the effect of the miracle, establishing, as
 the Catholics claimed, the true faith, was further increased when the
 unfortunate man who had thus been so suddenly spirited away returned
 some time afterwards, confessing his transportation to the Steinjoch,
-with a bruised body, and shattered faith in Pastor Sˆll.
+with a bruised body, and shattered faith in Pastor S√∂ll.
 
 Later on the mining industry was brought almost to a standstill owing
 to religious disputes, and an invasion of Anabaptists. And although
@@ -10813,7 +10779,7 @@ In it are depicted not only the metal-worker, but his three wives and
 children, who are habited as knights, all being under the protection
 of St. John the Baptist. This remarkable work is by the famous
 founders Alexander Colin of Malines, and the even more famous Hans
-Lˆffler. There are, too, nine altar pieces by Tyrolese painters which
+L√∂ffler. There are, too, nine altar pieces by Tyrolese painters which
 should be carefully noted.
 
 One finds some interesting painted houses in Schwaz, as in many other
@@ -10978,7 +10944,7 @@ startling representation of a rainbow (which gives it its name)
 painted over the arched doorway.
 
 The church of Zirl is chiefly interesting from the frescoes it
-contains, which are the work of Schˆpf. The churchyard is a spot in
+contains, which are the work of Sch√∂pf. The churchyard is a spot in
 which to linger. It is instinct with the pathos which comes in a
 measure from partial neglect, and picturesqueness of environment.
 
@@ -11096,7 +11062,7 @@ Maximilian, finding afterwards that many of the people of Zirl and the
 district were determined to make the perilous descent to the little
 cave which had afforded him shelter and foothold, employed some of the
 Schwaz miners to cut a path down to it and to enlarge the cavity,
-which became known as the Max-Hˆhle. In the cave was placed a
+which became known as the Max-H√∂hle. In the cave was placed a
 crucifix, with figures of the Virgin and St. John on either side, of
 sufficiently large size to be visible from the valley below. The
 cavern can be reached by this path (or one made since) in about an
@@ -11293,7 +11259,7 @@ hold the "rough jackets" of Landeck and the Inn Thal in greater
 respect than they had done before. The victory of July 1st, as it is
 known amongst the many other successes of the peasants' campaign
 against the invaders of their land, is celebrated every year by a
-procession and _fÍte_.
+procession and _f√™te_.
 
 Besides being a most interesting little town, Landeck is yearly
 growing more popular with holiday makers and rest seekers as a fine
@@ -11333,7 +11299,7 @@ time necessary to traverse the Arlberg to Bregenz by road, and so
 Bludenz must be included in the itinerary we are describing. The
 little town, which has a bustling and prosperous air, though it is
 decidedly hot in summer, still possesses a considerable number of its
-older buildings and houses. The ancient ch‚teau or castle of
+older buildings and houses. The ancient ch√¢teau or castle of
 Gayenhofen is now used for Government purposes; it forms a picturesque
 landmark in the town.
 
@@ -11414,7 +11380,7 @@ bride, concerning whom there is a legendary and highly romantic tale.
 
 It would appear from this story that Charlemagne was of a more than
 usually suspicious nature, and by no means one of those complaisant
-husbands with which the MediÊval tales have familiarized us. An old
+husbands with which the Medi√¶val tales have familiarized us. An old
 lover of Hildegarde, having seen her married to the Emperor with great
 distress of mind, in his wrath against her for preferring even an
 Emperor to himself, got ear of Charlemagne, and so succeeded in
@@ -11626,7 +11592,7 @@ INDEX
        Giants, 106
        Leipsic, 49
        Marengo and Hohenlinden, 37
-       NaÔssus, 11
+       Na√Øssus, 11
        near the Brenner, 4
        Sadowa, 50
        Spinges, 228, 229
@@ -11687,7 +11653,7 @@ INDEX
 
      Buchenstein, 270
 
-     B¸chsenhausen, castle of, 97
+     B√ºchsenhausen, castle of, 97
 
      Burg, the, 80
 
@@ -11711,7 +11677,7 @@ INDEX
      Castle Tyrol, 16
        siege of, 22
 
-     Castle of B¸chsenhausen, 97
+     Castle of B√ºchsenhausen, 97
        Frundsberg, 303
        Lizzana, 248
        Runkelstein, 211
@@ -11951,7 +11917,7 @@ INDEX
 
      "Great Week" in Tyrolese history, 45
 
-     Grˆdenerthal, ascents in, 273
+     Gr√∂denerthal, ascents in, 273
 
 
      H
@@ -11962,7 +11928,7 @@ INDEX
 
      Hall, 134-138
        interesting church of, 137
-       M¸nsterturm at, 135
+       M√ºnsterturm at, 135
        St. Saviour's church, 138
        salt mines, 135
 
@@ -11975,7 +11941,7 @@ INDEX
      Hellbrunn, Chateau of, 176-178
        gardens and fountains, 177
        mechanical theatre at, 178
-       Monatsschlˆsschen at, 178
+       Monatsschl√∂sschen at, 178
        stone theatre at, 178
 
      Henry, youngest son of Meinhard II., 17
@@ -12059,7 +12025,7 @@ INDEX
        Marktgraben, 83
        Maximilian's Tomb, 93
        Maximilian's, description of, Cenotaph, 98, 99
-       mediÊval buildings in, 81
+       medi√¶val buildings in, 81
        museum treasures, 89
        National Museum, 87
        plague, 86
@@ -12098,10 +12064,10 @@ INDEX
 
      King Arthur of England, 93
 
-     Kitzb¸hel, 287, 288
+     Kitzb√ºhel, 287, 288
        sports at, 288
 
-     Kitzb¸hlerhorn, ascent of, 287
+     Kitzb√ºhlerhorn, ascent of, 287
 
      Klausen, 215
        story of a nun, 216
@@ -12116,7 +12082,7 @@ INDEX
 
      L
 
-     Ladin, the dialect of the Grˆdenerthal, 225
+     Ladin, the dialect of the Gr√∂denerthal, 225
 
      Lake Missurina, 262
 
@@ -12157,7 +12123,7 @@ INDEX
 
      Lizzana, Castle, 248
 
-     Lˆffler, Gregor, and Castle of B¸chsenhausen, 97
+     L√∂ffler, Gregor, and Castle of B√ºchsenhausen, 97
 
      Lonicum (Lienz) station, 9
 
@@ -12211,7 +12177,7 @@ INDEX
 
      Maurice of Saxony, 30
 
-     Max-Hˆhle at Zirl, 315
+     Max-H√∂hle at Zirl, 315
 
      Maximilian, 28
 
@@ -12227,7 +12193,7 @@ INDEX
      Meran, 192-201
        architecture of, 193
        the Burg, 193
-       the Landesf¸rstliche Burg, 193, 194
+       the Landesf√ºrstliche Burg, 193, 194
        gardens of, 195
        "Hero Plays" at, 195, 196
        costumes at, 197
@@ -12250,16 +12216,16 @@ INDEX
 
      Monasteries, suppression of, 35
 
-     Mˆnchsberg, early church in, 153
+     M√∂nchsberg, early church in, 153
        walk along the, 182, 183
 
      Mozart's birthplace, 184
        relics in, 184
 
-     Mozart-H‰uschen on the Kapuzingerberg, 181
+     Mozart-H√§uschen on the Kapuzingerberg, 181
        furniture and relics in, 181
 
-     Mozart-H‰uschen, beautiful garden of, 182
+     Mozart-H√§uschen, beautiful garden of, 182
 
      Muhldorf, battle of, 157
 
@@ -12273,7 +12239,7 @@ INDEX
 
      N
 
-     NaÔssus, battle of, 11
+     Na√Øssus, battle of, 11
 
      Napoleonic wars and Salzburg, 163
 
@@ -12327,7 +12293,7 @@ INDEX
 
      Plancus, Munatius, 4
 
-     Pl‰tz-Wiese, 268
+     Pl√§tz-Wiese, 268
 
      Pliny, quotation from, 9
 
@@ -12377,17 +12343,17 @@ INDEX
 
      Revolution, French, 36
 
-     RhÊtians, the, 4, 7
+     Rh√¶tians, the, 4, 7
        their dialect, 53
 
-     RhÊto-Roman stations, 8
+     Rh√¶to-Roman stations, 8
 
      Riva, 252, 253
        parish church of, 252
 
      Roman conquest of the country, 6
-       occupation of RhÊtia, 7
-       RhÊto-, stations, 8
+       occupation of Rh√¶tia, 7
+       Rh√¶to-, stations, 8
 
      Rome, power of, 11
 
@@ -12543,13 +12509,13 @@ INDEX
        engagement of, 36
 
      Sports, Tyrolese, 67
-       at Kitzb¸hel, 287, 288
+       at Kitzb√ºhel, 287, 288
        at Meran, 201
        winter, at Innsbruck, 111
 
      Starkenberg, Castle of, 68
 
-     Stations, RhÊto-Roman, 8
+     Stations, Rh√¶to-Roman, 8
        Tricesimum, 9
        Julium Carnicum (Zuglio), 9
        Aguntum (Innichen), 9
@@ -12576,7 +12542,7 @@ INDEX
        Heilig Wasser, 128
        Oswald Milser, 316, 317
        Oswald von Wolkenstein, 217-220
-       Pastor Sˆll, 306
+       Pastor S√∂ll, 306
        Philippine Welser, 115-120
        St. Romedius and the Bear, 133, 134
        Teufelspalast, Trent, 244-246
@@ -12683,7 +12649,7 @@ INDEX
        Germanization of, 53
        the language of, 55
        legends, superstitions, and myths of, 55
-       W‰lsch, 57
+       W√§lsch, 57
 
      Tyrol folk-lore, tales of, 57
        quaint customs relating to Christmas in, 59
@@ -12821,366 +12787,4 @@ PRINTED BY WILLIAM CLOWES AND SONS, LIMITED, LONDON AND BECCLES.
 
 End of the Project Gutenberg EBook of Tyrol and its People, by Clive Holland
 
-*** END OF THIS PROJECT GUTENBERG EBOOK TYROL AND ITS PEOPLE ***
-
-***** This file should be named 40889-8.txt or 40889-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/0/8/8/40889/
-
-Produced by Melissa McDaniel and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 40889 ***
